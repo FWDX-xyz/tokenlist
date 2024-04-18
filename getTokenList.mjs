@@ -11,9 +11,9 @@ const setupGit = () => {
 
 // Function to push changes to the repository
 const pushChanges = () => {
-    execSync('git add data/');
+    execSync('git add tokens/');
     try {
-        execSync('git commit -m "Update data files"');
+        execSync('git commit -m "Update tokens files"');
         execSync('git push --set-upstream origin HEAD');
     } catch (error) {
         if (!error.message.includes('nothing to commit')) {
