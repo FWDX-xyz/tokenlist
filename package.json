@@ -1,0 +1,15 @@
+{
+  "name": "fwdx-token-list",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "FWDX Token List from Coinhecko",
+  "main": "getTokenList.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SirWeb3Wizard",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
