@@ -23,4 +23,4 @@ jobs:
         run: npm install
 
       - name: Run script
-        run: node fetchAndUpdate.mjs
+        run: node getTokenList.mjs
