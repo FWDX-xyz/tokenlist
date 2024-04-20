@@ -40,7 +40,7 @@ const fetchDataAndUpdateRepo = async () => {
                 throw new Error(`HTTP error! Status: ${response.status} for ${name}`);
             }
             const data = await response.json();
-            const filePath = `tokens/${name}.json`;
+            const filePath = `tokens/mainnet/${name}.json`;
             fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
             console.log(`Data written for ${name}`);
         }));
