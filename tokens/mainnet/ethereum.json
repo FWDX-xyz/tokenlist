@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-04-19T12:02:25.069+00:00",
+  "timestamp": "2024-04-20T05:03:03.809+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -37766,6 +37766,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x69457a1c9ec492419344da01daf0df0e0369d5d0",
+      "name": "Fjord Foundry",
+      "symbol": "FJO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36510/thumb/fjord.png?1711682800"
+    },
+    {
+      "chainId": 1,
       "address": "0xb45ad160634c528cc3d2926d9807104fa3157305",
       "name": "sDOLA",
       "symbol": "SDOLA",
@@ -40965,14 +40973,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xf3a3023e6dede84ad88a656a3269f2a36e83c9a9",
-      "name": "Sharbi",
-      "symbol": "SHARBI",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/29075/thumb/Sharbi_New_Logo_200x200.png?1712686416"
-    },
-    {
-      "chainId": 1,
       "address": "0x9f826324bb9bdcf7e7eb274bedc417bd45d74f39",
       "name": "MilkAI",
       "symbol": "MILKAI",
@@ -41533,8 +41533,8 @@
     }
   ],
   "version": {
-    "major": 303,
-    "minor": 0,
+    "major": 304,
+    "minor": 1,
     "patch": 0
   }
 }
