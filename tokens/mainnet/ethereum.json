@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-04-20T05:03:03.809+00:00",
+  "timestamp": "2024-04-20T15:02:36.112+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -6415,6 +6415,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xe5018913f2fdf33971864804ddb5fca25c539032",
+      "name": "OpenLM RevShare Token",
+      "symbol": "OLM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37186/thumb/Ora.jpeg?1713623805"
+    },
+    {
+      "chainId": 1,
       "address": "0xe0bceef36f3a6efdd5eebfacd591423f8549b9d5",
       "name": "Defactor",
       "symbol": "FACTR",
@@ -6484,14 +6492,6 @@
       "symbol": "DAWN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11555/thumb/dawn_protocol.png?1696511454"
-    },
-    {
-      "chainId": 1,
-      "address": "0x66fd97a78d8854fec445cd1c80a07896b0b4851f",
-      "name": "Lunch Money",
-      "symbol": "LMY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4149/thumb/IMG_2073.png?1696504774"
     },
     {
       "chainId": 1,
@@ -8890,14 +8890,6 @@
       "symbol": "NEWS",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/9572/thumb/PUBLISH_Logo_280X280.png?1696509652"
-    },
-    {
-      "chainId": 1,
-      "address": "0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd",
-      "name": "Forefront",
-      "symbol": "FF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14659/thumb/N2kir6jx_400x400.jpg?1696514335"
     },
     {
       "chainId": 1,
@@ -20495,14 +20487,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x048aa6e69d5117bd665af4128383a6982b8367b3",
-      "name": "VoxNET",
-      "symbol": "VXON",
-      "decimals": 4,
-      "logoURI": "https://assets.coingecko.com/coins/images/28369/thumb/VoxNETlogo.png?1696527372"
-    },
-    {
-      "chainId": 1,
       "address": "0xddcea43727558126c00eea772d660dfbe9c39613",
       "name": "Grizzly Bot",
       "symbol": "GRIZZLY",
@@ -29900,14 +29884,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xa50709b10c328772ea24a44b13c7e23c75561ecb",
-      "name": "28",
-      "symbol": "28",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32142/thumb/28.png?1696592290"
-    },
-    {
-      "chainId": 1,
       "address": "0x365accfca291e7d3914637abf1f7635db165bb09",
       "name": "f x  Protocol",
       "symbol": "FXN",
@@ -35587,14 +35563,6 @@
       "symbol": "COSMIC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35119/thumb/download.png?1707409910"
-    },
-    {
-      "chainId": 1,
-      "address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
-      "name": "Flashstake",
-      "symbol": "FLASH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13533/thumb/FLASH.png?1696513294"
     },
     {
       "chainId": 1,
@@ -41533,7 +41501,7 @@
     }
   ],
   "version": {
-    "major": 304,
+    "major": 305,
     "minor": 1,
     "patch": 0
   }
