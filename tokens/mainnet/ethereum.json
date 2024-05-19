@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-05-17T21:02:30.247+00:00",
+  "timestamp": "2024-05-19T00:03:03.719+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -381,14 +381,6 @@
       "symbol": "BLZ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/2848/thumb/ColorIcon_3x.png?1696503607"
-    },
-    {
-      "chainId": 1,
-      "address": "0xec681f28f4561c2a9534799aa38e0d36a83cf478",
-      "name": "YVS Finance",
-      "symbol": "YVS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13471/thumb/cu0LSzE.png?1696513232"
     },
     {
       "chainId": 1,
@@ -3613,14 +3605,6 @@
       "symbol": "TAPROOT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35368/thumb/200.png?1708401189"
-    },
-    {
-      "chainId": 1,
-      "address": "0xf8b358b3397a8ea5464f8cc753645d42e14b79ea",
-      "name": "Airbloc",
-      "symbol": "ABL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4393/thumb/airbloc-protocol-logo.png?1696504991"
     },
     {
       "chainId": 1,
@@ -10482,14 +10466,6 @@
       "symbol": "XRUNE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/16835/thumb/thorstarter.jpg?1696516403"
-    },
-    {
-      "chainId": 1,
-      "address": "0x3b58c52c03ca5eb619eba171091c86c34d603e5f",
-      "name": "Cyclub",
-      "symbol": "CYCLUB",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/12524/thumb/mcicoin-logo.png?1696512337"
     },
     {
       "chainId": 1,
@@ -30859,14 +30835,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xaf4ce7cd4f8891ecf1799878c3e9a35b8be57e09",
-      "name": "KUMA Protocol Wrapped USK",
-      "symbol": "WUSK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33446/thumb/USK.png?1701888542"
-    },
-    {
-      "chainId": 1,
       "address": "0x5e72ad4bf50c952b11a63b6769d02bb486a9a897",
       "name": "Lucky8",
       "symbol": "888",
@@ -30896,6 +30864,14 @@
       "symbol": "MANKRETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37170/thumb/mankrETH.png?1713508127"
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf4ce7cd4f8891ecf1799878c3e9a35b8be57e09",
+      "name": "KUMA Protocol Wrapped USK",
+      "symbol": "WUSK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33446/thumb/USK.png?1701888542"
     },
     {
       "chainId": 1,
@@ -37848,6 +37824,22 @@
     },
     {
       "chainId": 1,
+      "address": "0xb1c9d42fa4ba691efe21656a7e6953d999b990c4",
+      "name": "Kangamoon",
+      "symbol": "KANG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37950/thumb/PIX._LOGO.png?1716055245"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9edbe853ddccb4baaf49201be6c39ee1816e120",
+      "name": "Rddt",
+      "symbol": "RDDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37951/thumb/IMG_20240514_112405_985.jpg?1716074538"
+    },
+    {
+      "chainId": 1,
       "address": "0x16c22a91c705ec3c2d5945dbe2aca37924f1d2ed",
       "name": "Elon s Pet Fish ERIC",
       "symbol": "ERIC",
@@ -40831,6 +40823,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x203aad20f51bbe43e650d3ceea88d43dd6c817c1",
+      "name": "GhostMarket",
+      "symbol": "GM",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/22765/thumb/gm.png?1696522068"
+    },
+    {
+      "chainId": 1,
       "address": "0xde16ce60804a881e9f8c4ebb3824646edecd478d",
       "name": "MagicCraft",
       "symbol": "MCRT",
@@ -41071,8 +41071,8 @@
     }
   ],
   "version": {
-    "major": 350,
+    "major": 352,
     "minor": 2,
-    "patch": 1
+    "patch": 0
   }
 }
