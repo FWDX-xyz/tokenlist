@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-05-19T00:03:03.719+00:00",
+  "timestamp": "2024-05-19T10:02:13.190+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -5232,14 +5232,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x0a6c7d5b442ddf53d963581d87932f25743dd3a0",
-      "name": "SimpleHub",
-      "symbol": "SHUB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33024/thumb/imgonline-com-ua-Resize-1akYG0UVinM7FOR4.png?1700317445"
-    },
-    {
-      "chainId": 1,
       "address": "0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c",
       "name": "Nestree",
       "symbol": "EGG",
@@ -5421,14 +5413,6 @@
       "symbol": "XNO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13830/thumb/XNO_logo_200x200.png?1696513573"
-    },
-    {
-      "chainId": 1,
-      "address": "0x808632424440f6483d9be7509812b53ed0f00344",
-      "name": "Mechazilla",
-      "symbol": "MECHA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33025/thumb/MECHA.jpg?1700318938"
     },
     {
       "chainId": 1,
@@ -10434,6 +10418,14 @@
       "symbol": "SHOE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/19082/thumb/SHOEFY.jpg?1696518532"
+    },
+    {
+      "chainId": 1,
+      "address": "0x571f54d23cdf2211c83e9a0cbd92aca36c48fa02",
+      "name": "Parallel USD",
+      "symbol": "PAUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37953/thumb/paUSD-Square.png?1716090814"
     },
     {
       "chainId": 1,
@@ -36944,6 +36936,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xd8c978de79e12728e38aa952a6cb4166f891790f",
+      "name": "Roaring Kitty",
+      "symbol": "ROAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37954/thumb/roaring_kitty.png?1716091869"
+    },
+    {
+      "chainId": 1,
       "address": "0xbf5495efe5db9ce00f80364c8b423567e58d2110",
       "name": "Renzo Restaked ETH",
       "symbol": "EZETH",
@@ -37676,7 +37676,7 @@
       "name": "THREE",
       "symbol": "THREE",
       "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/37486/thumb/Real_Three_logo_%28200_x_200_%D0%BF%D0%B8%D0%BA%D1%81.%29-3.png?1714674839"
+      "logoURI": "https://assets.coingecko.com/coins/images/37486/thumb/Three_Token_Logo_circle.png?1716085851"
     },
     {
       "chainId": 1,
@@ -39671,14 +39671,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x6c7b97c7e09e790d161769a52f155125fac6d5a1",
-      "name": "Polylauncher",
-      "symbol": "ANGEL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17739/thumb/Polylauncher_-_200_x_200.png?1696517266"
-    },
-    {
-      "chainId": 1,
       "address": "0x31f69de127c8a0ff10819c0955490a4ae46fcc2a",
       "name": "Obyte",
       "symbol": "GBYTE",
@@ -41071,8 +41063,8 @@
     }
   ],
   "version": {
-    "major": 352,
-    "minor": 2,
+    "major": 353,
+    "minor": 0,
     "patch": 0
   }
 }
