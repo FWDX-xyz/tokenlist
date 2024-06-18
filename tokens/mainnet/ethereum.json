@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-06-16T11:02:47.428+00:00",
+  "timestamp": "2024-06-17T15:02:46.072+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -20924,7 +20924,7 @@
       "name": "Peepo",
       "symbol": "PEPO",
       "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/38502/thumb/CoinGecko.png?1718317165"
+      "logoURI": "https://assets.coingecko.com/coins/images/38502/thumb/CG_Logo_F.png?1718635039"
     },
     {
       "chainId": 1,
@@ -24976,6 +24976,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xfb4d71ecbc4f6945f1ab0faff17c9bdeaf86b847",
+      "name": "BALI Skull",
+      "symbol": "BALI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38740/thumb/Logo2.jpg?1718625750"
+    },
+    {
+      "chainId": 1,
       "address": "0x37a2f8701856a78de92dbe35df2200c355eae090",
       "name": "QuantoSwap",
       "symbol": "QNS",
@@ -28812,6 +28820,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x4ff57e25eeb7affbbb060e0bad2e1759efc8bec4",
+      "name": "BLOCX ",
+      "symbol": "BLOCX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31237/thumb/BLOCX.png?1703581121"
+    },
+    {
+      "chainId": 1,
       "address": "0xd0a6053f087e87a25dc60701ba6e663b1a548e85",
       "name": "BLOCKLORDS",
       "symbol": "LRDS",
@@ -29673,14 +29689,6 @@
       "symbol": "ROBO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33256/thumb/photo_2023-11-28_09-42-35.jpg?1701313072"
-    },
-    {
-      "chainId": 1,
-      "address": "0xdb8ad3c6d7f9f364d59af9a62c3139cf5c6be88e",
-      "name": "XNOVA",
-      "symbol": "XNOVA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33087/thumb/Transparent_Logo_%28Black-Purple%29_%282%29.png?1700602472"
     },
     {
       "chainId": 1,
@@ -41672,8 +41680,8 @@
     }
   ],
   "version": {
-    "major": 404,
-    "minor": 0,
+    "major": 405,
+    "minor": 2,
     "patch": 0
   }
 }
