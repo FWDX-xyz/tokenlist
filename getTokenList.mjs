@@ -31,6 +31,15 @@ const urls = {
     base: 'https://tokens.coingecko.com/base/all.json'
 };
 
+const minUrls = {
+    linea: "https://tokens.pancakeswap.finance/pancakeswap-linea-default.json",
+    ethereum: "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/gemini/ethereum.tokenlist.json",
+    binance: "https://tokens.pancakeswap.finance/pancakeswap-extended.json",
+    avalanche: "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/gemini/avalanche.tokenlist.json",
+    polygon: "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/gemini/polygon.tokenlist.json",
+    base: "https://tokens.pancakeswap.finance/pancakeswap-base-default.json"
+}
+
 const fetchDataAndUpdateRepo = async () => {
     try {
         setupGit();
@@ -44,6 +53,18 @@ const fetchDataAndUpdateRepo = async () => {
             fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
             console.log(`Data written for ${name}`);
         }));
+
+        await Promise.all(Object.entries(minUrls).map(async ([name, url]) => {
+            const response = await fetch(url);
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status} for ${name}`);
+            }
+            const data = await response.json();
+            const filePath = `tokens/mainnet/${name}-default.json`;
+            fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+            console.log(`Data written for ${name}-default`);
+        }));
+
         pushChanges();
     } catch (error) {
         console.error('An error occurred:', error);
