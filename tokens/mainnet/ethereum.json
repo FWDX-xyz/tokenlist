@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-06-22T20:03:09.980+00:00",
+  "timestamp": "2024-06-23T10:03:24.097+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -3997,14 +3997,6 @@
       "symbol": "P2PS",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/2798/thumb/p2ps.png?1696503565"
-    },
-    {
-      "chainId": 1,
-      "address": "0x8ce55da273fb5cf4b1ffc5d4066bd62445a43543",
-      "name": "Burners",
-      "symbol": "BRNR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33911/thumb/Burners.jpeg?1703310206"
     },
     {
       "chainId": 1,
@@ -19288,14 +19280,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x5f190f9082878ca141f858c1c90b4c59fe2782c5",
-      "name": "Kudoe",
-      "symbol": "KDOE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28709/thumb/CG.png?1696527691"
-    },
-    {
-      "chainId": 1,
       "address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
       "name": "Zus",
       "symbol": "ZCN",
@@ -19901,6 +19885,14 @@
       "symbol": "WEETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
+    },
+    {
+      "chainId": 1,
+      "address": "0xcfcffe432a48db53f59c301422d2edd77b2a88d7",
+      "name": "Texan",
+      "symbol": "TEXAN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28731/thumb/texan_logo_200x200.png?1696527711"
     },
     {
       "chainId": 1,
@@ -21269,14 +21261,6 @@
       "symbol": "CRE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29387/thumb/cre-logo-200.png?1696528333"
-    },
-    {
-      "chainId": 1,
-      "address": "0xcb129aa11ceaa00da1a92d12e26bb776ef3c3628",
-      "name": "PowBlocks",
-      "symbol": "XPB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32520/thumb/logo.png?1698406955"
     },
     {
       "chainId": 1,
@@ -26358,14 +26342,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x456815812b3129a4389ea4d73e9706697cc91373",
-      "name": "0xS",
-      "symbol": "0XS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31453/thumb/Logo200x200.png?1696530267"
-    },
-    {
-      "chainId": 1,
       "address": "0x43d7e65b8ff49698d9550a7f315c87e67344fb59",
       "name": "Shiba Saga",
       "symbol": "SHIA",
@@ -28988,14 +28964,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x433fb346139e4eb5e513ae5fd77bd98614b153b1",
-      "name": "FP  Beanz",
-      "symbol": "UBEANZ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32784/thumb/beanz_%281%29.png?1699352128"
-    },
-    {
-      "chainId": 1,
       "address": "0x4fa5836b58d6f1877a616e7833c7350781e21202",
       "name": "FP  Otherdeed",
       "symbol": "UOTHR",
@@ -30824,14 +30792,6 @@
       "symbol": "A4M",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/34129/thumb/200x200_a4m_new.png?1712695102"
-    },
-    {
-      "chainId": 1,
-      "address": "0xb48fe88717c1a6020cc256a7d6f0e4a285bc9660",
-      "name": "Scom Coin",
-      "symbol": "SCOM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33908/thumb/Scom_Coin.jpg?1703241874"
     },
     {
       "chainId": 1,
@@ -38601,6 +38561,22 @@
     },
     {
       "chainId": 1,
+      "address": "0x09675e24ca1eb06023451ac8088eca1040f47585",
+      "name": "ApeScreener",
+      "symbol": "APES",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38822/thumb/200_200.jpg?1719101017"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6019dcb2d0b3e0d1d8b0ce8d16191b3a4f93703d",
+      "name": "Quantum Fusion",
+      "symbol": "QF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38823/thumb/logo-qf-200x200.jpg?1719101151"
+    },
+    {
+      "chainId": 1,
       "address": "0xf3c3745894d979f8f85761bd060520bddbc464e9",
       "name": "King Of Meme",
       "symbol": "LION",
@@ -41712,8 +41688,8 @@
     }
   ],
   "version": {
-    "major": 411,
-    "minor": 2,
+    "major": 412,
+    "minor": 0,
     "patch": 0
   }
 }
