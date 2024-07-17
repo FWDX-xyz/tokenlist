@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-07-15T12:03:14.661+00:00",
+  "timestamp": "2024-07-16T22:03:13.911+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -109,6 +109,14 @@
       "symbol": "IDLEUSDCSAFE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11930/thumb/idleusdc-safe.png?1696511791"
+    },
+    {
+      "chainId": 1,
+      "address": "0x19848077f45356b21164c412eff3d3e4ff6ebc31",
+      "name": "Spike",
+      "symbol": "SPIKE",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/38609/thumb/GSTxiIkXgAAUdyJ.jpg?1721163699"
     },
     {
       "chainId": 1,
@@ -237,14 +245,6 @@
       "symbol": "FWB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14391/thumb/xRGEXmQN_400x400.png?1696514082"
-    },
-    {
-      "chainId": 1,
-      "address": "0x30cf203b48edaa42c3b4918e955fed26cd012a3f",
-      "name": "MetaGame",
-      "symbol": "SEED",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13099/thumb/V8phEz8V.png?1696512885"
     },
     {
       "chainId": 1,
@@ -3744,6 +3744,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xe72b141df173b999ae7c1adcbf60cc9833ce56a8",
+      "name": "ETHPlus",
+      "symbol": "ETH+",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38061/thumb/ETH__Logo.png?1716440789"
+    },
+    {
+      "chainId": 1,
       "address": "0x076641af1b8f06b7f8c92587156143c109002cbe",
       "name": "SoPay",
       "symbol": "SOP",
@@ -4637,14 +4645,6 @@
       "symbol": "JGN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12761/thumb/juggernaut_logo.png?1696512558"
-    },
-    {
-      "chainId": 1,
-      "address": "0xc0ec8caec55f37d47fbfa595727418868a21fd48",
-      "name": "EcoG9coin",
-      "symbol": "EGC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/8038/thumb/Screenshot_2019-12-05_at_7.14.34_AM.png?1696508259"
     },
     {
       "chainId": 1,
@@ -14871,7 +14871,7 @@
       "name": "crvUSD",
       "symbol": "CRVUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30118/thumb/crvusd.jpeg?1696529040"
+      "logoURI": "https://assets.coingecko.com/coins/images/30118/thumb/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.png?1721097561"
     },
     {
       "chainId": 1,
@@ -31101,14 +31101,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xae54e48c2263e889399ad29bfff401feaf08fd57",
-      "name": "DiversityEquity Inclusion",
-      "symbol": "DEI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34535/thumb/Wei_Icon.png?1705324644"
-    },
-    {
-      "chainId": 1,
       "address": "0x15f73a3ab443ee6ebf36c605c7868159ce5d028c",
       "name": "SmartsetToken",
       "symbol": "SST",
@@ -31890,6 +31882,14 @@
       "symbol": "DIBBLE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34860/thumb/dibbles_logo.png?1706351813"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbdbe9f26918918bd3f43a0219d54e5fda9ce1bb3",
+      "name": "Molly",
+      "symbol": "MOLLY",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/39211/thumb/IMG_7800.jpeg?1721105099"
     },
     {
       "chainId": 1,
@@ -35908,14 +35908,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050",
-      "name": "Arkham",
-      "symbol": "ARKM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30929/thumb/Arkham_Logo_CG.png?1696529771"
-    },
-    {
-      "chainId": 1,
       "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
       "name": "TrustSwap",
       "symbol": "SWAP",
@@ -37324,14 +37316,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xe72b141df173b999ae7c1adcbf60cc9833ce56a8",
-      "name": "Reserve Protocol ETH Plus",
-      "symbol": "ETH+",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38061/thumb/ETH__Logo.png?1716440789"
-    },
-    {
-      "chainId": 1,
       "address": "0xcf4c91ecafc43c9f382db723ba20b82efa852821",
       "name": "Truth Inu",
       "symbol": "TRUTH",
@@ -37899,14 +37883,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x19848077f45356b21164c412eff3d3e4ff6ebc31",
-      "name": "Spike",
-      "symbol": "SPIKE",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/38609/thumb/pLvPrds.png?1718678646"
-    },
-    {
-      "chainId": 1,
       "address": "0x426a688ee72811773eb64f5717a32981b56f10c1",
       "name": "AMC",
       "symbol": "AMC",
@@ -38439,7 +38415,7 @@
       "name": "AIR Token",
       "symbol": "AIR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38367/thumb/AIRian_%281%29.png?1717275890"
+      "logoURI": "https://assets.coingecko.com/coins/images/38367/thumb/AIRian_%282%29.png?1721100982"
     },
     {
       "chainId": 1,
@@ -39003,14 +38979,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x7087c92ec764e75e7be7701eba15cd95d90f501f",
-      "name": "MATT",
-      "symbol": "MATT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39199/thumb/MATT.jpg?1721020032"
-    },
-    {
-      "chainId": 1,
       "address": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
       "name": "G Token",
       "symbol": "G",
@@ -39032,6 +39000,14 @@
       "symbol": "HOBA",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/39202/thumb/hoba_logo_2_200x200.png?1721033406"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7087c92ec764e75e7be7701eba15cd95d90f501f",
+      "name": "MATT",
+      "symbol": "MATT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39199/thumb/MATT.jpg?1721020032"
     },
     {
       "chainId": 1,
@@ -39072,6 +39048,30 @@
       "symbol": "LSK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/385/thumb/Lisk_Symbol_-_Blue.png?1696501687"
+    },
+    {
+      "chainId": 1,
+      "address": "0x88ee7a3537667958d040216d9dc1752d1274d838",
+      "name": "MoveMoveCoin",
+      "symbol": "MMC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39214/thumb/1000008640.jpg?1721107633"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050",
+      "name": "Arkham",
+      "symbol": "ARKM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30929/thumb/Arkham_Logo_CG.png?1696529771"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8802269d1283cdb2a5a329649e5cb4cdcee91ab6",
+      "name": "Fight to MAGA",
+      "symbol": "FIGHT",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/39208/thumb/photo_2024-07-14_03-15-23.jpg?1721101331"
     },
     {
       "chainId": 1,
@@ -42234,8 +42234,8 @@
     }
   ],
   "version": {
-    "major": 444,
+    "major": 446,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
