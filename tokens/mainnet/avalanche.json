@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-08-12T11:01:05.916+00:00",
+  "timestamp": "2024-08-13T02:01:11.968+00:00",
   "tokens": [
-    {
-      "chainId": 43114,
-      "address": "0x096d19b58cab84a2f0ff0e81c08291bffaa62848",
-      "name": "Shoe404",
-      "symbol": "SHOE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36486/thumb/Shoe.png?1711556371"
-    },
     {
       "chainId": 43114,
       "address": "0x449674b82f05d498e126dd6615a1057a9c088f2c",
@@ -48,14 +40,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x69260b9483f9871ca57f81a90d91e2f96c2cd11d",
-      "name": "GoGoPool",
-      "symbol": "GGP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30267/thumb/GGP_logo_square.png?1696529174"
-    },
-    {
-      "chainId": 43114,
       "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
       "name": "Wonderful Memories",
       "symbol": "WMEMO",
@@ -77,6 +61,14 @@
       "symbol": "ART",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32277/thumb/sart.png?1697180675"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x111111111111ed1d73f860f57b2798b683f2d325",
+      "name": "YUSD Stablecoin",
+      "symbol": "YUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25024/thumb/1_oJ0F2Zf6CuAhLP0zOboo6w.png?1696524176"
     },
     {
       "chainId": 43114,
@@ -104,11 +96,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x111111111111ed1d73f860f57b2798b683f2d325",
-      "name": "YUSD Stablecoin",
-      "symbol": "YUSD",
+      "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+      "name": "BENQI Liquid Staked AVAX",
+      "symbol": "SAVAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25024/thumb/1_oJ0F2Zf6CuAhLP0zOboo6w.png?1696524176"
+      "logoURI": "https://assets.coingecko.com/coins/images/23657/thumb/savax_blue.png?1696522860"
     },
     {
       "chainId": 43114,
@@ -120,6 +112,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0xd402298a793948698b9a63311404fbbee944eafd",
+      "name": "Shrapnel",
+      "symbol": "SHRAP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32793/thumb/shrapnel.png?1699441661"
+    },
+    {
+      "chainId": 43114,
       "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
       "name": "Lydia Finance",
       "symbol": "LYD",
@@ -128,11 +128,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a",
-      "name": "Verso",
-      "symbol": "VSO",
+      "address": "0xa25eaf2906fa1a3a13edac9b9657108af7b703e3",
+      "name": "GoGoPool ggAVAX",
+      "symbol": "GGAVAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15169/thumb/versa.PNG?1696514824"
+      "logoURI": "https://assets.coingecko.com/coins/images/33543/thumb/ggavax-token-flat.png?1702383352"
     },
     {
       "chainId": 43114,
@@ -144,27 +144,19 @@
     },
     {
       "chainId": 43114,
+      "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+      "name": "JOE",
+      "symbol": "JOE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17569/thumb/JoeToken.png?1703732357"
+    },
+    {
+      "chainId": 43114,
       "address": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
       "name": "Dragon Crypto Aurum",
       "symbol": "DCAU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/20226/thumb/7f7e57.jpeg?1696519635"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xa2cde628d7617956eaf4780e32f68df19cc13d62",
-      "name": "Subava Token",
-      "symbol": "SUBAVA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34571/thumb/NritEgVAcO.png?1705408907"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xd402298a793948698b9a63311404fbbee944eafd",
-      "name": "Shrapnel",
-      "symbol": "SHRAP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32793/thumb/shrapnel.png?1699441661"
     },
     {
       "chainId": 43114,
@@ -208,6 +200,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+      "name": "Bitcoin Avalanche Bridged  BTC b ",
+      "symbol": "BTCB",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/26115/thumb/btcb.png?1696525205"
+    },
+    {
+      "chainId": 43114,
       "address": "0x5a15bdcf9a3a8e799fa4381e666466a516f2d9c8",
       "name": "Snail Trail",
       "symbol": "SLIME",
@@ -221,14 +221,6 @@
       "symbol": "PEFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14643/thumb/pefi.png?1696514320"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
-      "name": "Kalao",
-      "symbol": "KLO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18641/thumb/KALAO.jpg?1696518113"
     },
     {
       "chainId": 43114,
@@ -304,6 +296,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0xe533b81297b820d2eb2cd837263926596328e8d2",
+      "name": "EMDX",
+      "symbol": "EMDX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30774/thumb/EMDX_200x200.png?1696529642"
+    },
+    {
+      "chainId": 43114,
       "address": "0x916aba115f5162960e48a2675ad4d8cbd09ce8e4",
       "name": "MCVERSE",
       "symbol": "MCV",
@@ -312,11 +312,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5",
-      "name": "The Phoenix",
-      "symbol": "FIRE",
+      "address": "0x69260b9483f9871ca57f81a90d91e2f96c2cd11d",
+      "name": "GoGoPool",
+      "symbol": "GGP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22709/thumb/2QuHdcO.png?1696522019"
+      "logoURI": "https://assets.coingecko.com/coins/images/30267/thumb/GGP_logo_square.png?1696529174"
     },
     {
       "chainId": 43114,
@@ -341,22 +341,6 @@
       "symbol": "SOLAR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34598/thumb/solar-dex.jpeg?1705486051"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xe533b81297b820d2eb2cd837263926596328e8d2",
-      "name": "EMDX",
-      "symbol": "EMDX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30774/thumb/EMDX_200x200.png?1696529642"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-      "name": "Aave v3 sAVAX",
-      "symbol": "ASAVAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32916/thumb/savax.png?1699825205"
     },
     {
       "chainId": 43114,
@@ -400,6 +384,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0x997ddaa07d716995de90577c123db411584e5e46",
+      "name": "DeFi Kingdoms",
+      "symbol": "JEWEL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18570/thumb/jewel_token_x2.png?1702076846"
+    },
+    {
+      "chainId": 43114,
       "address": "0x78ea3fef1c1f07348199bf44f45b803b9b0dbe28",
       "name": "Hoppers Game",
       "symbol": "FLY",
@@ -421,14 +413,6 @@
       "symbol": "JIGEN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38538/thumb/Desktop_-_2_%281%29.png?1717834116"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x997ddaa07d716995de90577c123db411584e5e46",
-      "name": "DeFi Kingdoms",
-      "symbol": "JEWEL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18570/thumb/jewel_token_x2.png?1702076846"
     },
     {
       "chainId": 43114,
@@ -517,14 +501,6 @@
       "symbol": "YAK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17654/thumb/yieldyak.png?1696517185"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xa77e70d0af1ac7ff86726740db1bd065c3566937",
-      "name": "PLAYA3ULL GAMES",
-      "symbol": "3ULL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30695/thumb/App_Icon_Round.png?1696529564"
     },
     {
       "chainId": 43114,
@@ -744,11 +720,27 @@
     },
     {
       "chainId": 43114,
+      "address": "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a",
+      "name": "Verso",
+      "symbol": "VSO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15169/thumb/versa.PNG?1696514824"
+    },
+    {
+      "chainId": 43114,
       "address": "0xf5f3216e9fed36f8ccf08d310fec6fbf7f06200f",
       "name": "BOBS",
       "symbol": "BOBS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34021/thumb/bobs_200.png?1703670370"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4586af10ecceed4e383e3f2ec93b6c61e26500b5",
+      "name": "HUNDRED",
+      "symbol": "HUNDRED",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31876/thumb/mQM7_dCk_400x400.jpg?1696530688"
     },
     {
       "chainId": 43114,
@@ -768,11 +760,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x4586af10ecceed4e383e3f2ec93b6c61e26500b5",
-      "name": "HUNDRED",
-      "symbol": "HUNDRED",
+      "address": "0x15fa5d3dbd11a831b72b92c1705bc9f801e233cb",
+      "name": "PointPay",
+      "symbol": "PXP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31876/thumb/mQM7_dCk_400x400.jpg?1696530688"
+      "logoURI": "https://assets.coingecko.com/coins/images/37084/thumb/pointpay-removebg-preview.png?1713253076"
     },
     {
       "chainId": 43114,
@@ -784,11 +776,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x15fa5d3dbd11a831b72b92c1705bc9f801e233cb",
-      "name": "PointPay",
-      "symbol": "PXP",
+      "address": "0xa2cde628d7617956eaf4780e32f68df19cc13d62",
+      "name": "Subava Token",
+      "symbol": "SUBAVA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37084/thumb/pointpay-removebg-preview.png?1713253076"
+      "logoURI": "https://assets.coingecko.com/coins/images/34571/thumb/NritEgVAcO.png?1705408907"
     },
     {
       "chainId": 43114,
@@ -824,6 +816,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0xa77e70d0af1ac7ff86726740db1bd065c3566937",
+      "name": "PLAYA3ULL GAMES",
+      "symbol": "3ULL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30695/thumb/App_Icon_Round.png?1696529564"
+    },
+    {
+      "chainId": 43114,
       "address": "0xdd33ef5704ada19d254cb636b5a0a1bad3936050",
       "name": "Rise of the Warbots MMAC",
       "symbol": "MMAC",
@@ -837,6 +837,14 @@
       "symbol": "PERA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/16185/thumb/Pera-Finance-200x200.png?1696515787"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
+      "name": "Kalao",
+      "symbol": "KLO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18641/thumb/KALAO.jpg?1696518113"
     },
     {
       "chainId": 43114,
@@ -856,19 +864,27 @@
     },
     {
       "chainId": 43114,
+      "address": "0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5",
+      "name": "The Phoenix",
+      "symbol": "FIRE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22709/thumb/2QuHdcO.png?1696522019"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+      "name": "Aave v3 sAVAX",
+      "symbol": "ASAVAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32916/thumb/savax.png?1699825205"
+    },
+    {
+      "chainId": 43114,
       "address": "0x502580fc390606b47fc3b741d6d49909383c28a9",
       "name": "HatchyPocket",
       "symbol": "HATCHY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/27560/thumb/HATCHY_200x200_Logo.png?1696526595"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
-      "name": "JOE",
-      "symbol": "JOE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17569/thumb/JoeToken.png?1703732357"
     },
     {
       "chainId": 43114,
@@ -912,14 +928,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
-      "name": "BENQI Liquid Staked AVAX",
-      "symbol": "SAVAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23657/thumb/savax_blue.png?1696522860"
-    },
-    {
-      "chainId": 43114,
       "address": "0xb5cc2ce99b3f98a969dbe458b96a117680ae0fa1",
       "name": "Lucky Coin",
       "symbol": "LUCKY",
@@ -933,14 +941,6 @@
       "symbol": "EUROT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32816/thumb/eurot.png?1699579428"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xa25eaf2906fa1a3a13edac9b9657108af7b703e3",
-      "name": "GoGoPool ggAVAX",
-      "symbol": "GGAVAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33543/thumb/ggavax-token-flat.png?1702383352"
     },
     {
       "chainId": 43114,
@@ -960,14 +960,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
-      "name": "Bitcoin Avalanche Bridged  BTC b ",
-      "symbol": "BTCB",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/26115/thumb/btcb.png?1696525205"
-    },
-    {
-      "chainId": 43114,
       "address": "0x4f94b8aef08c92fefe416af073f1df1e284438ec",
       "name": "Landwolf on AVAX",
       "symbol": "WOLF",
@@ -981,6 +973,14 @@
       "symbol": "BCOQ",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/33892/thumb/BCoq200x200.png?1703214118"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x096d19b58cab84a2f0ff0e81c08291bffaa62848",
+      "name": "Shoe404",
+      "symbol": "SHOE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36486/thumb/Shoe.png?1711556371"
     },
     {
       "chainId": 43114,
@@ -3512,8 +3512,42 @@
     }
   ],
   "version": {
-    "major": null,
-    "minor": 0,
-    "patch": 0
+    "message": {
+      "message": "Request failed with status code 429",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 429\n    at settle (/var/task/node_modules/axios/dist/node/axios.cjs:1909:12)\n    at IncomingMessage.handleStreamEnd (/var/task/node_modules/axios/dist/node/axios.cjs:2989:11)\n    at IncomingMessage.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": [
+          "xhr",
+          "http"
+        ],
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "CoinGecko/TokenListChecker unknown",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://tokens.coingecko.com/avalanche/all.json"
+      },
+      "code": "ERR_BAD_REQUEST",
+      "status": 429
+    }
   }
 }
