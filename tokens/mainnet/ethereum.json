@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-08-16T20:03:08.707+00:00",
+  "timestamp": "2024-08-17T15:03:07.687+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -1333,14 +1333,6 @@
       "symbol": "FIRE",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/13495/thumb/fire.jpg?1696513256"
-    },
-    {
-      "chainId": 1,
-      "address": "0xc96df921009b790dffca412375251ed1a2b75c60",
-      "name": "Ormeus Coin",
-      "symbol": "ORME",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/964/thumb/ORMEUS_logo.png?1696502079"
     },
     {
       "chainId": 1,
@@ -21258,6 +21250,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xd722424cf94b583752dfc80c08e2531ab3b762dc",
+      "name": "SphereX Token",
+      "symbol": "HERE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39761/thumb/coin_here.png.png?1723903634"
+    },
+    {
+      "chainId": 1,
       "address": "0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
       "name": "SmarDex",
       "symbol": "SDEX",
@@ -27117,6 +27117,14 @@
       "symbol": "IOC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32418/thumb/IMG_20231017_174915_959.jpg?1698116981"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5277f67a2be2e1a241613c357f26ae12458bf2c9",
+      "name": "FAT GUY",
+      "symbol": "FATGUY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39762/thumb/Fatguy_%281%29.png?1723904089"
     },
     {
       "chainId": 1,
@@ -40854,14 +40862,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xe580074a10360404af3abfe2d524d5806d993ea3",
-      "name": "PayBolt",
-      "symbol": "PAY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24175/thumb/logo.png?1696523363"
-    },
-    {
-      "chainId": 1,
       "address": "0x20d60c6eb195868d4643f2c9b0809e4de6cc003d",
       "name": "PlayNity",
       "symbol": "PLY",
@@ -42198,8 +42198,8 @@
     }
   ],
   "version": {
-    "major": 488,
+    "major": 489,
     "minor": 1,
-    "patch": 1
+    "patch": 0
   }
 }
