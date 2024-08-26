@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-08-24T14:03:14.969+00:00",
+  "timestamp": "2024-08-25T22:03:55.340+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -28905,14 +28905,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x0a6e481cb5f2d976b2edac4f67dcc824ccdae4af",
-      "name": "Audify",
-      "symbol": "AUDI",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/34251/thumb/emoji.png?1704339102"
-    },
-    {
-      "chainId": 1,
       "address": "0xe46a1d19962ea120765d3139c588ffd617be04a8",
       "name": "EverETH",
       "symbol": "EETH",
@@ -37984,6 +37976,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x4c1b1302220d7de5c22b495e78b72f2dd2457d45",
+      "name": "Bufficorn",
+      "symbol": "BUFFI",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/39878/thumb/BUFFI200.jpg?1724618678"
+    },
+    {
+      "chainId": 1,
       "address": "0xca9de1f80df74331c5fcb7eee2d05e746d47bfb2",
       "name": "RedSonic Vault Ethereum",
       "symbol": "RSVETH",
@@ -38149,6 +38149,14 @@
       "symbol": "YPRISMA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33481/thumb/Asset_yPRISMA__Type_Main.png?1702020049"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb369daca21ee035312176eb8cf9d88ce97e0aa95",
+      "name": "Skol",
+      "symbol": "SKOL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35934/thumb/skollogo_200x200.png?1710264034"
     },
     {
       "chainId": 1,
@@ -38787,7 +38795,7 @@
       "name": "Toncoin",
       "symbol": "TON",
       "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/17980/thumb/ton_symbol.png?1696517498"
+      "logoURI": "https://assets.coingecko.com/coins/images/17980/thumb/DOG.png?1724593443"
     },
     {
       "chainId": 1,
@@ -41439,8 +41447,8 @@
     }
   ],
   "version": {
-    "major": 500,
-    "minor": 0,
+    "major": 502,
+    "minor": 2,
     "patch": 0
   }
 }
