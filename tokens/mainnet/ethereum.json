@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-08-31T00:03:23.015+00:00",
+  "timestamp": "2024-08-31T09:03:14.850+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -3912,6 +3912,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xd7cfdb3cdc33dbeb9e9a4c95b61953cf12a008b3",
+      "name": "Bruh",
+      "symbol": "BRUH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39992/thumb/qde5osjQ_400x400.jpg?1725065185"
+    },
+    {
+      "chainId": 1,
       "address": "0xd585aaafa2b58b1cd75092b51ade9fa4ce52f247",
       "name": "peg eUSD",
       "symbol": "PEUSD",
@@ -6828,14 +6836,6 @@
       "symbol": "FSCC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/6507/thumb/AnyConv.com__fscc_icon_fin.png?1696506865"
-    },
-    {
-      "chainId": 1,
-      "address": "0x6628606c321faf52b7230a57b26c01b19aa68e82",
-      "name": "BitHash",
-      "symbol": "BT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13224/thumb/bt.png?1696513003"
     },
     {
       "chainId": 1,
@@ -13938,14 +13938,6 @@
       "symbol": "CMKR",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/17528/thumb/cmkr.PNG?1696517066"
-    },
-    {
-      "chainId": 1,
-      "address": "0x7e6f60e237c34307d516ef80218c2b04bccbca40",
-      "name": "Trackr",
-      "symbol": "TRACKR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34433/thumb/photo_2024-01-09_15-28-29_%282%29.jpg?1704869068"
     },
     {
       "chainId": 1,
@@ -23856,14 +23848,6 @@
       "symbol": "ESPR",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/31091/thumb/ESPR.png?1696529923"
-    },
-    {
-      "chainId": 1,
-      "address": "0x6ad9a31f02f1e790ff85584ea3c3d0001e45cd64",
-      "name": "Ethane",
-      "symbol": "C2H6",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/31118/thumb/Ethane200x200.png?1696529948"
     },
     {
       "chainId": 1,
@@ -38048,6 +38032,38 @@
     },
     {
       "chainId": 1,
+      "address": "0xb538d9f3e1ae450827618519acd96086fc4c0a59",
+      "name": "GIZMO",
+      "symbol": "GIZMO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39993/thumb/a12.jpg?1725065734"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c444197d64e079323a1eb8d40655910b052f85a",
+      "name": "EQ9",
+      "symbol": "EQ9",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39998/thumb/Group_1000000896_%282%29.png?1725066879"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ad9a31f02f1e790ff85584ea3c3d0001e45cd64",
+      "name": "Ethane",
+      "symbol": "C2H6",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/31118/thumb/ethanelogo4.png?1725067574"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa78bcbb74b822e74a847897d2d1d2d5ee2c76bd8",
+      "name": "Swords   Dungeons GOLD",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39999/thumb/Sword_and_Dungeons_GOLD.jpg?1725068254"
+    },
+    {
+      "chainId": 1,
       "address": "0xac28c9178acc8ba4a11a29e013a3a2627086e422",
       "name": "Backed MicroStrategy",
       "symbol": "BMSTR",
@@ -38195,7 +38211,7 @@
       "address": "0xed11c9bcf69fdd2eefd9fe751bfca32f171d53ae",
       "name": "Koinos",
       "symbol": "KOIN",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/13116/thumb/koinos-mark-circle-250px.png?1696512903"
     },
     {
@@ -38844,14 +38860,6 @@
       "symbol": "AGLA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/27547/thumb/8SGgovDI_400x400.png?1696526584"
-    },
-    {
-      "chainId": 1,
-      "address": "0x8b9f7e9586633ca4abffb1f746da8daed7849cb2",
-      "name": "Cremation Coin",
-      "symbol": "CREMAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29793/thumb/photo_2023-02-07_04-43-14.jpg?1696528723"
     },
     {
       "chainId": 1,
@@ -41399,8 +41407,8 @@
     }
   ],
   "version": {
-    "major": 513,
-    "minor": 3,
+    "major": 514,
+    "minor": 0,
     "patch": 0
   }
 }
