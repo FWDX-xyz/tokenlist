@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-09-07T00:03:44.485+00:00",
+  "timestamp": "2024-09-07T14:03:41.098+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -1229,14 +1229,6 @@
       "symbol": "KNDA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31692/thumb/kenda_200_200.png?1696530510"
-    },
-    {
-      "chainId": 1,
-      "address": "0xe477292f1b3268687a29376116b0ed27a9c76170",
-      "name": "HEROcoin",
-      "symbol": "PLAY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2221/thumb/herocoin.png?1696503173"
     },
     {
       "chainId": 1,
@@ -22967,7 +22959,7 @@
       "name": "Vitalik Smart Gas",
       "symbol": "VSG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35275/thumb/JW9w9bvc_400x400.jpg?1708053854"
+      "logoURI": "https://assets.coingecko.com/coins/images/35275/thumb/photo_2024-09-07_14.54.06.jpeg?1725717274"
     },
     {
       "chainId": 1,
@@ -30665,14 +30657,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x1a59eec501745ad6bdfc37558ddacb38ca5a8c48",
-      "name": "Cosmic",
-      "symbol": "COSMIC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35119/thumb/download.png?1707409910"
-    },
-    {
-      "chainId": 1,
       "address": "0x1e7572fb16e176d40d28090e51a7a9ea08f68199",
       "name": "Meow Coin",
       "symbol": "MEOW",
@@ -31574,14 +31558,6 @@
       "symbol": "ARCH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28970/thumb/arch.png?1696527943"
-    },
-    {
-      "chainId": 1,
-      "address": "0x1f769203d2abcb78f5a77dd15c0078c50fb13287",
-      "name": "Azure Wallet",
-      "symbol": "AZURE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35753/thumb/Azure.jpeg?1709723218"
     },
     {
       "chainId": 1,
@@ -37592,11 +37568,27 @@
     },
     {
       "chainId": 1,
+      "address": "0x79874e049a65c330b23f99cf09dd93e58b1f46ad",
+      "name": "Babble AI",
+      "symbol": "BBL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40103/thumb/NEW_BABBLE_pfp-17.png?1725694944"
+    },
+    {
+      "chainId": 1,
       "address": "0x163f8c2467924be0ae7b5347228cabf260318753",
       "name": "Worldcoin",
       "symbol": "WLD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31069/thumb/worldcoin.jpeg?1696529903"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfefe274de1983102d4565b7f14018602d2c830b9",
+      "name": "SikaSwap",
+      "symbol": "SIKA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40104/thumb/Sika_logo_2-removebg.png?1725695960"
     },
     {
       "chainId": 1,
@@ -37901,6 +37893,14 @@
       "symbol": "NGL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34522/thumb/entangle.jpeg?1705302451"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4268a135840e5273e9dcb3dc78303767d3964f43",
+      "name": "Fungify NFT Index",
+      "symbol": "NFT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40108/thumb/200x200_nft-logo.png?1725696912"
     },
     {
       "chainId": 1,
@@ -41071,14 +41071,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x19b22dbadc298c359a1d1b59e35f352a2b40e33c",
-      "name": "tPLATINUM",
-      "symbol": "TXPT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27830/thumb/tPLATINUM_%28TXPT%29_Token.png?1696526849"
-    },
-    {
-      "chainId": 1,
       "address": "0x5824d908411fb531ffb47e05950eb194f41e7da1",
       "name": "Agatech",
       "symbol": "AGATA",
@@ -41551,8 +41543,8 @@
     }
   ],
   "version": {
-    "major": 524,
-    "minor": 1,
-    "patch": 2
+    "major": 525,
+    "minor": 0,
+    "patch": 1
   }
 }
