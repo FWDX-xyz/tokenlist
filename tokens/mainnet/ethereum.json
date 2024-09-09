@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-09-07T14:03:41.098+00:00",
+  "timestamp": "2024-09-09T00:03:35.514+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -25953,14 +25953,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x87fdd1e031b356bdc1c55a3231cfe266552d8284",
-      "name": "PBM Coin",
-      "symbol": "PBMC",
-      "decimals": 14,
-      "logoURI": "https://assets.coingecko.com/coins/images/32063/thumb/PBM_Coin_%28Sep_23%29.png?1696530860"
-    },
-    {
-      "chainId": 1,
       "address": "0x1cfa5641c01406ab8ac350ded7d735ec41298372",
       "name": "Convertible JPY Token",
       "symbol": "CJPY",
@@ -33209,6 +33201,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xf90924b4064d88fdf9189d6ffd737ed85c01b9b7",
+      "name": "GameFinity",
+      "symbol": "GFN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40111/thumb/Gamefinity_Logo_JPG.jpg?1725826614"
+    },
+    {
+      "chainId": 1,
       "address": "0xad53ed3fee57160f026189eb91e73e9317fa92f1",
       "name": "zkTAO",
       "symbol": "ZAO",
@@ -34782,6 +34782,14 @@
       "symbol": "HGP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38590/thumb/hgp.jpg?1718091439"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e3d6e1a84d9efc479173b60b203bf0e1582b162",
+      "name": "ZenoAI",
+      "symbol": "ZOAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40112/thumb/1000092475.jpg?1725827143"
     },
     {
       "chainId": 1,
@@ -37588,7 +37596,7 @@
       "name": "SikaSwap",
       "symbol": "SIKA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40104/thumb/Sika_logo_2-removebg.png?1725695960"
+      "logoURI": "https://assets.coingecko.com/coins/images/40104/thumb/Sika_Logo_2.png?1725770720"
     },
     {
       "chainId": 1,
@@ -38141,6 +38149,14 @@
       "symbol": "VISTADOG",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40092/thumb/1000000366.jpg?1725592618"
+    },
+    {
+      "chainId": 1,
+      "address": "0x41d06390b935356b46ad6750bda30148ad2044a4",
+      "name": "HUSBY",
+      "symbol": "HUSBY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40115/thumb/Copy_of_HUSBY-logo_%28500_x_500_px%29_%28200_x_200_px%29.png?1725829546"
     },
     {
       "chainId": 1,
@@ -41543,8 +41559,8 @@
     }
   ],
   "version": {
-    "major": 525,
-    "minor": 0,
-    "patch": 1
+    "major": 526,
+    "minor": 2,
+    "patch": 0
   }
 }
