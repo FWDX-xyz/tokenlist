@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-09-15T09:01:16.707+00:00",
+  "timestamp": "2024-09-16T16:01:14.135+00:00",
   "tokens": [
     {
       "chainId": 137,
@@ -2032,6 +2032,14 @@
     },
     {
       "chainId": 137,
+      "address": "0x57d2a45653b329fac354b04cead92c4db71cf09f",
+      "name": "IBS",
+      "symbol": "IBS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26003/thumb/a.jpg?1696525080"
+    },
+    {
+      "chainId": 137,
       "address": "0x3963a400b42377376d6c3d92ddf2d6288d8ee0d6",
       "name": "Equals9",
       "symbol": "EQ9",
@@ -3597,14 +3605,6 @@
     },
     {
       "chainId": 137,
-      "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
-      "name": "Quickswap",
-      "symbol": "QUICK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25393/thumb/quickswap.png?1696524525"
-    },
-    {
-      "chainId": 137,
       "address": "0x5f2f8818002dc64753daedf4a6cb2ccb757cd220",
       "name": "Wisdomise AI",
       "symbol": "WSDM",
@@ -3953,6 +3953,14 @@
       "symbol": "VCNT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31305/thumb/ViciCoin_-_small.png?1696530124"
+    },
+    {
+      "chainId": 137,
+      "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
+      "name": "Quickswap",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25393/thumb/quickswap.png?1696524525"
     },
     {
       "chainId": 137,
@@ -6988,6 +6996,14 @@
     },
     {
       "chainId": 137,
+      "address": "0x82cb0ec6a31bc92e9483c08fdcbe2e6f3cc28100",
+      "name": "IBS",
+      "symbol": "IBS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26003/thumb/a.jpg?1696525080"
+    },
+    {
+      "chainId": 137,
       "address": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
       "name": "Okcash",
       "symbol": "OK",
@@ -8949,7 +8965,7 @@
   ],
   "version": {
     "major": 74,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
