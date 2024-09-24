@@ -1,10 +1,10 @@
 {
+  "timestamp": "2024-09-23T10:20:42.563Z",
   "name": "PancakeSwap Extended",
-  "timestamp": "2024-09-19T10:57:12.436Z",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 245
+    "patch": 250
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3435,6 +3435,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "pufETH",
+      "name": "pufETH",
+      "decimals": 18,
+      "address": "0x64274835D88F5c0215da8AADd9A5f2D2A2569381",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x64274835D88F5c0215da8AADd9A5f2D2A2569381.png"
     }
   ]
 }
