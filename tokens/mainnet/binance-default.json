@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-10-01T14:25:22.629Z",
+  "timestamp": "2024-10-02T05:55:05.919Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 251
+    "patch": 253
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3443,6 +3443,14 @@
       "decimals": 18,
       "address": "0x64274835D88F5c0215da8AADd9A5f2D2A2569381",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x64274835D88F5c0215da8AADd9A5f2D2A2569381.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "LAVA",
+      "name": "Axelar Wrapped LAVA",
+      "decimals": 6,
+      "address": "0xFfeB8287dE7DC756067e171e9919c730f0636680",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xFfeB8287dE7DC756067e171e9919c730f0636680.png"
     }
   ]
 }
