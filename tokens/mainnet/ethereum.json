@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-10-10T20:03:40.001+00:00",
+  "timestamp": "2024-10-11T22:03:14.400+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -4824,6 +4824,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xd4fcde9bb1d746dd7e5463b01dd819ee06af25db",
+      "name": "Renzo Restaked EIGEN",
+      "symbol": "EZEIGEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50440/thumb/ezEigen.png?1728587024"
+    },
+    {
+      "chainId": 1,
       "address": "0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c",
       "name": "Nestree",
       "symbol": "EGG",
@@ -5829,14 +5837,6 @@
       "symbol": "LPT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/7137/thumb/badge-logo-circuit-green.png?1719357686"
-    },
-    {
-      "chainId": 1,
-      "address": "0xe69d699cbcd79cb1b55f82cf36bf1a2836053562",
-      "name": "DropCoin",
-      "symbol": "DROP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32835/thumb/Frame_5_%2848%29.jpg?1699586509"
     },
     {
       "chainId": 1,
@@ -14024,7 +14024,7 @@
       "name": "Frankencoin",
       "symbol": "ZCHF",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Untitled_design_%2818%29.png?1713464171"
+      "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
     },
     {
       "chainId": 1,
@@ -23619,7 +23619,7 @@
     {
       "chainId": 1,
       "address": "0x83d4927d060a7a33ad838bd7ea0ec128d58c9003",
-      "name": "Funded",
+      "name": "Funded  OLD ",
       "symbol": "FUNDED",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32736/thumb/1000003263.png?1708427223"
@@ -24774,6 +24774,14 @@
       "symbol": "HYPERAI",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/37742/thumb/s200.png?1715358797"
+    },
+    {
+      "chainId": 1,
+      "address": "0x518c54fdc12ba593617160eca423f4c2cd3ecac3",
+      "name": "STI6900",
+      "symbol": "STI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50672/thumb/STI6900.png?1728682324"
     },
     {
       "chainId": 1,
@@ -29552,14 +29560,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
-      "name": "Aventus",
-      "symbol": "AVT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/901/thumb/1673958879448.jpeg?1696502024"
-    },
-    {
-      "chainId": 1,
       "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
       "name": "tBTC",
       "symbol": "TBTC",
@@ -30232,19 +30232,19 @@
     },
     {
       "chainId": 1,
-      "address": "0x83389cb4e4f0bff39915efa839cb827460e70d26",
-      "name": "AnyDex",
-      "symbol": "ADX",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/50642/thumb/1000000086.png?1728568963"
-    },
-    {
-      "chainId": 1,
       "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
       "name": "Loopring",
       "symbol": "LRC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/913/thumb/LRC.png?1696502034"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd38b305cac06990c0887032a02c03d6839f770a8",
+      "name": "Legacy Token",
+      "symbol": "LGCT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50673/thumb/token2d.jpg?1728682508"
     },
     {
       "chainId": 1,
@@ -34304,6 +34304,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+      "name": "Aventus",
+      "symbol": "AVT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/901/thumb/aventus.png?1728614945"
+    },
+    {
+      "chainId": 1,
       "address": "0x986df267bb88a0a0be06dd4a1052e1bdec1a6172",
       "name": "HyperQuant",
       "symbol": "HQ",
@@ -37591,6 +37599,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x36b2269fd151208a4bfc3dea503e0a6f2485fa78",
+      "name": "Atua AI",
+      "symbol": "TUA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50532/thumb/5.png?1728298820"
+    },
+    {
+      "chainId": 1,
       "address": "0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
       "name": "TRVL",
       "symbol": "TRVL",
@@ -38207,6 +38223,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xc0e10854ab40b2e59a5519c481161a090f1162a0",
+      "name": "Cairo",
+      "symbol": "CAIRO",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/50653/thumb/1000028254.jpg?1728621012"
+    },
+    {
+      "chainId": 1,
       "address": "0x1945e804b8a25b98ab140e58295404d768ca3f6b",
       "name": "MOTION",
       "symbol": "MOTION",
@@ -38223,6 +38247,30 @@
     },
     {
       "chainId": 1,
+      "address": "0x83389cb4e4f0bff39915efa839cb827460e70d26",
+      "name": "AnyDex",
+      "symbol": "ADX",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/50642/thumb/1000000086.png?1728568963"
+    },
+    {
+      "chainId": 1,
+      "address": "0xebb66a88cedd12bfe3a289df6dfee377f2963f12",
+      "name": "OSCAR",
+      "symbol": "OSCAR",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/50654/thumb/OscarLogo200X200.Png_%283%29cmc.Png?1728628946"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0ebfe04adb5ef449ec5874e450810501dc53ed5",
+      "name": "Brume",
+      "symbol": "BRUME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50657/thumb/cloudy_200.png?1728635730"
+    },
+    {
+      "chainId": 1,
       "address": "0x89c1da46d692d09814a88a27270d0dca21e4734d",
       "name": "GM Frens",
       "symbol": "GM",
@@ -38236,6 +38284,30 @@
       "symbol": "PSP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/20403/thumb/ep7GqM19_400x400.jpg?1696519812"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb612bfc5ce2fb1337bd29f5af24ca85dbb181ce2",
+      "name": "KLAUS",
+      "symbol": "KLAUS",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/50656/thumb/KlausCMC-2.png?1728631696"
+    },
+    {
+      "chainId": 1,
+      "address": "0x527f788aeaf856ad2e2c7096b5aab634bff281b8",
+      "name": "MUA DAO",
+      "symbol": "MUA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50662/thumb/mua.jpg?1728653935"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ce1f6bd6b0aa7520a14018dcc2261b1371d7c1a",
+      "name": "Corn",
+      "symbol": "CORN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50664/thumb/IMG_20240923_001346_861.jpg?1728667213"
     },
     {
       "chainId": 1,
@@ -38548,6 +38620,14 @@
       "symbol": "SOLVBTCBBN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640"
+    },
+    {
+      "chainId": 1,
+      "address": "0x791a5c2261823dbf69b27b63e851b7745532cfa2",
+      "name": "Atua AI",
+      "symbol": "TUA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50532/thumb/5.png?1728298820"
     },
     {
       "chainId": 1,
@@ -41286,14 +41366,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xa719cb79af39a9c10eda2755e0938bce35e9de24",
-      "name": "Starfish Finance",
-      "symbol": "SEAN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27533/thumb/SEAN_Token_icon.png?1696526570"
-    },
-    {
-      "chainId": 1,
       "address": "0x3b79a28264fc52c7b4cea90558aa0b162f7faf57",
       "name": "Wonderful Memories",
       "symbol": "WMEMO",
@@ -41774,8 +41846,8 @@
     }
   ],
   "version": {
-    "major": 577,
-    "minor": 1,
-    "patch": 1
+    "major": 578,
+    "minor": 4,
+    "patch": 0
   }
 }
