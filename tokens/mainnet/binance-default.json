@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-10-02T05:55:05.919Z",
+  "timestamp": "2024-10-15T17:27:41.515Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 253
+    "patch": 254
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3451,6 +3451,14 @@
       "decimals": 6,
       "address": "0xFfeB8287dE7DC756067e171e9919c730f0636680",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xFfeB8287dE7DC756067e171e9919c730f0636680.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "Cheems",
+      "name": "Cheems",
+      "decimals": 18,
+      "address": "0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413.png"
     }
   ]
 }
