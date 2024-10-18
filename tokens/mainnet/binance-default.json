@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-10-15T17:27:41.515Z",
+  "timestamp": "2024-10-17T05:08:13.752Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 254
+    "patch": 255
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3459,6 +3459,14 @@
       "decimals": 18,
       "address": "0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "ynBNB",
+      "name": "YieldNest: BNB Liquid Restaking",
+      "decimals": 18,
+      "address": "0x304B5845b9114182ECb4495Be4C91a273b74B509",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x304B5845b9114182ECb4495Be4C91a273b74B509.png"
     }
   ]
 }
