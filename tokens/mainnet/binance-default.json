@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-10-17T05:08:13.752Z",
+  "timestamp": "2024-10-23T14:59:15.437Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 255
+    "patch": 256
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3467,6 +3467,14 @@
       "decimals": 18,
       "address": "0x304B5845b9114182ECb4495Be4C91a273b74B509",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x304B5845b9114182ECb4495Be4C91a273b74B509.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "SCPT",
+      "name": "SCPT - Script Network",
+      "decimals": 18,
+      "address": "0x0669538FcdeF9A73CD37938eBa8c79E652BB93AA",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0669538FcdeF9A73CD37938eBa8c79E652BB93AA.png"
     }
   ]
 }
