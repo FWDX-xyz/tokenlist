@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-09-24T21:13:47.038Z",
+  "timestamp": "2024-10-31T17:30:28.048Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 20
+    "patch": 21
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -244,6 +244,30 @@
       "decimals": 6,
       "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "wrsETH",
+      "name": "rsETHWrapper",
+      "decimals": 18,
+      "address": "0xEDfa23602D0EC14714057867A78d01e94176BEA0",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xEDfa23602D0EC14714057867A78d01e94176BEA0.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "VIRTUAL",
+      "name": "Virtual Protocol",
+      "decimals": 18,
+      "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "USDC+",
+      "name": "USDC+",
+      "decimals": 6,
+      "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f.png"
     }
   ]
 }
