@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-10-23T14:59:15.437Z",
+  "timestamp": "2024-11-01T17:02:39.489Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 256
+    "patch": 257
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3475,6 +3475,14 @@
       "decimals": 18,
       "address": "0x0669538FcdeF9A73CD37938eBa8c79E652BB93AA",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0669538FcdeF9A73CD37938eBa8c79E652BB93AA.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "BUTTER",
+      "name": "BreadnButter",
+      "decimals": 18,
+      "address": "0x5867CBf2A3fA758C063e8A2deeAF0De8d71C3eF4",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5867CBf2A3fA758C063e8A2deeAF0De8d71C3eF4.png"
     }
   ]
 }
