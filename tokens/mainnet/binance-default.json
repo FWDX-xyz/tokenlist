@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-11-01T17:02:39.489Z",
+  "timestamp": "2024-11-05T09:16:39.566Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 257
+    "patch": 258
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3483,6 +3483,14 @@
       "decimals": 18,
       "address": "0x5867CBf2A3fA758C063e8A2deeAF0De8d71C3eF4",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x5867CBf2A3fA758C063e8A2deeAF0De8d71C3eF4.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "SWORLD",
+      "name": "Seedworld",
+      "decimals": 18,
+      "address": "0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA.png"
     }
   ]
 }
