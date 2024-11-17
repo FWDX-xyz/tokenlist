@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-10-31T17:30:28.048Z",
+  "timestamp": "2024-11-16T15:21:00.233Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 21
+    "patch": 22
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -268,6 +268,30 @@
       "decimals": 6,
       "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "uSUI",
+      "name": "Sui (Universal)",
+      "decimals": 18,
+      "address": "0xb0505e5a99abd03d94a1169e638B78EDfEd26ea4",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xb0505e5a99abd03d94a1169e638B78EDfEd26ea4.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "bsdETH",
+      "name": "Based ETH",
+      "decimals": 18,
+      "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "WELL",
+      "name": "WELL",
+      "decimals": 18,
+      "address": "0xA88594D404727625A9437C3f886C7643872296AE",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xA88594D404727625A9437C3f886C7643872296AE.png"
     }
   ]
 }
