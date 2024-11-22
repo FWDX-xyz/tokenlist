@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-11-16T15:21:00.233Z",
+  "timestamp": "2024-11-21T11:58:25.313Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 22
+    "patch": 23
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -292,6 +292,14 @@
       "decimals": 18,
       "address": "0xA88594D404727625A9437C3f886C7643872296AE",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0xA88594D404727625A9437C3f886C7643872296AE.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "MORPHO",
+      "name": "Morpho Token",
+      "decimals": 18,
+      "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842.png"
     }
   ]
 }
