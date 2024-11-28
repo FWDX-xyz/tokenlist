@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-11-26T07:42:43.167Z",
+  "timestamp": "2024-11-27T15:34:39.641Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 259
+    "patch": 261
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3499,6 +3499,46 @@
       "decimals": 18,
       "address": "0x9eC02756A559700d8D9e79ECe56809f7bcC5dC27",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x9eC02756A559700d8D9e79ECe56809f7bcC5dC27.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "TONCOIN",
+      "name": "Wrapped TON Coin",
+      "decimals": 9,
+      "address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x76A797A59Ba2C17726896976B7B3747BfD1d220f.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "decimals": 18,
+      "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "decimals": 18,
+      "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x1CE0c2827e2eF14D5C4f29a091d735A204794041.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "SHIB",
+      "name": "SHIBA INU",
+      "decimals": 18,
+      "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x2859e4544C4bB03966803b044A93563Bd2D0DD4D.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "WoD",
+      "name": "World of Dypians",
+      "decimals": 18,
+      "address": "0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8.png"
     }
   ]
 }

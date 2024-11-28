@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-11-21T11:58:25.313Z",
+  "timestamp": "2024-11-27T10:23:15.176Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 23
+    "patch": 24
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -300,6 +300,22 @@
       "decimals": 18,
       "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "AIXBT",
+      "name": "aixbt by Virtuals",
+      "decimals": 18,
+      "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "CLANKER",
+      "name": "tokenbot",
+      "decimals": 18,
+      "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb.png"
     }
   ]
 }
