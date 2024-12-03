@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-11-27T15:34:39.641Z",
+  "timestamp": "2024-12-02T06:09:18.474Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 261
+    "patch": 262
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3539,6 +3539,22 @@
       "decimals": 18,
       "address": "0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "USDX",
+      "name": "USDX",
+      "decimals": 18,
+      "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "sUSDX",
+      "name": "Staked USDX",
+      "decimals": 18,
+      "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92.png"
     }
   ]
 }
