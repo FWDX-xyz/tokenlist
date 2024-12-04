@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-12-02T06:09:18.474Z",
+  "timestamp": "2024-12-03T09:28:29.583Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 262
+    "patch": 263
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3555,6 +3555,14 @@
       "decimals": 18,
       "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "LBTC",
+      "name": "Lombard Staked Bitcoin",
+      "decimals": 8,
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xecAc9C5F704e954931349Da37F60E39f515c11c1.png"
     }
   ]
 }
