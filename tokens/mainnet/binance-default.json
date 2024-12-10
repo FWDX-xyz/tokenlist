@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-12-03T09:28:29.583Z",
+  "timestamp": "2024-12-09T08:43:42.152Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 263
+    "patch": 264
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3563,6 +3563,14 @@
       "decimals": 8,
       "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xecAc9C5F704e954931349Da37F60E39f515c11c1.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "SDM",
+      "name": "Shieldeum",
+      "decimals": 18,
+      "address": "0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d.png"
     }
   ]
 }
