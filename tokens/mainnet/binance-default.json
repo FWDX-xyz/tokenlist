@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-12-09T08:43:42.152Z",
+  "timestamp": "2024-12-10T15:53:27.822Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 264
+    "patch": 265
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3571,6 +3571,14 @@
       "decimals": 18,
       "address": "0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "VINU",
+      "name": "Vita Inu",
+      "decimals": 18,
+      "address": "0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa.png"
     }
   ]
 }
