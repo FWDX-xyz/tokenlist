@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-12-10T15:53:27.822Z",
+  "timestamp": "2024-12-11T15:30:42.161Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 265
+    "patch": 268
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -2357,14 +2357,6 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5.png"
     },
     {
-      "name": "Prosper",
-      "symbol": "PROS",
-      "address": "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405.png"
-    },
-    {
       "name": "Paris Saint-Germain",
       "symbol": "PSG",
       "address": "0xBc5609612b7C44BEf426De600B5fd1379DB2EcF1",
@@ -3579,6 +3571,30 @@
       "decimals": 18,
       "address": "0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "CAKEDOG",
+      "name": "CAKEDOG",
+      "decimals": 18,
+      "address": "0x96a3b63701DBC6D40A1C4153734778443b0175aD",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x96a3b63701DBC6D40A1C4153734778443b0175aD.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "BINK",
+      "name": "Bink AI",
+      "decimals": 18,
+      "address": "0x5fdfaFd107Fc267bD6d6B1C08fcafb8d31394ba1",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5fdfaFd107Fc267bD6d6B1C08fcafb8d31394ba1.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "PROS",
+      "name": "Prosper",
+      "decimals": 18,
+      "address": "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405.png"
     }
   ]
 }
