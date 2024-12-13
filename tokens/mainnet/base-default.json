@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-11-27T10:23:15.176Z",
+  "timestamp": "2024-12-12T14:37:56.857Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 24
+    "patch": 25
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -316,6 +316,14 @@
       "decimals": 18,
       "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "EXTRA",
+      "name": "Extra Finance",
+      "decimals": 18,
+      "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x2dAD3a13ef0C6366220f989157009e501e7938F8.png"
     }
   ]
 }
