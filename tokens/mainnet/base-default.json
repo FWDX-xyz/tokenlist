@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-12-12T14:37:56.857Z",
+  "timestamp": "2024-12-13T07:17:51.801Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 25
+    "patch": 26
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -324,6 +324,14 @@
       "decimals": 18,
       "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x2dAD3a13ef0C6366220f989157009e501e7938F8.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "ZBU",
+      "name": "ZEEBU",
+      "decimals": 18,
+      "address": "0x2C8C89C442436CC6C0a77943E09c8Daf49Da3161",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x2C8C89C442436CC6C0a77943E09c8Daf49Da3161.png"
     }
   ]
 }
