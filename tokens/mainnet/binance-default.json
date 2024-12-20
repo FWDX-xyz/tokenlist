@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-12-13T10:23:34.955Z",
+  "timestamp": "2024-12-19T13:19:58.556Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 271
+    "patch": 274
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3619,6 +3619,38 @@
       "decimals": 18,
       "address": "0x23AE4fd8E7844cdBc97775496eBd0E8248656028",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x23AE4fd8E7844cdBc97775496eBd0E8248656028.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "USDa",
+      "name": "USDa",
+      "decimals": 18,
+      "address": "0x9356086146be5158E98aD827E21b5cF944699894",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x9356086146be5158E98aD827E21b5cF944699894.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "sUSDa",
+      "name": "USDa saving token",
+      "decimals": 18,
+      "address": "0x73a325103935b0B5E7AA3acA6dba74AD22f82B03",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x73a325103935b0B5E7AA3acA6dba74AD22f82B03.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "asCAKE",
+      "name": "Astherus CAKE",
+      "decimals": 18,
+      "address": "0x9817F4c9f968a553fF6caEf1a2ef6cF1386F16F7",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x9817F4c9f968a553fF6caEf1a2ef6cF1386F16F7.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "BFG",
+      "name": "BFG Token",
+      "decimals": 18,
+      "address": "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86.png"
     }
   ]
 }
