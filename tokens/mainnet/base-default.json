@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-12-25T11:16:04.137Z",
+  "timestamp": "2024-12-26T03:18:46.173Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 27
+    "patch": 28
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -476,6 +476,14 @@
       "decimals": 18,
       "address": "0x9a26F5433671751C3276a065f57e5a02D2817973",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x9a26F5433671751C3276a065f57e5a02D2817973.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "OX",
+      "name": "OX Coin",
+      "decimals": 18,
+      "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea.png"
     }
   ]
 }
