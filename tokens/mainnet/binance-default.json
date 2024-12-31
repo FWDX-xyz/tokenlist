@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-12-26T03:23:03.623Z",
+  "timestamp": "2024-12-30T16:32:33.443Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 276
+    "patch": 280
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3667,6 +3667,30 @@
       "decimals": 18,
       "address": "0x2DCE707c47Fd9C0f1833A281F45e3e41Ace2725B",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x2DCE707c47Fd9C0f1833A281F45e3e41Ace2725B.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "BabyDoge",
+      "name": "Baby Doge Coin",
+      "decimals": 9,
+      "address": "0xc748673057861a797275CD8A068AbB95A902e8de",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xc748673057861a797275CD8A068AbB95A902e8de.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "EYWA",
+      "name": "EYWA",
+      "decimals": 18,
+      "address": "0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "COCO",
+      "name": "COCO COIN",
+      "decimals": 18,
+      "address": "0xF563E86e461dE100CfCfD8b65dAA542d3d4B0550",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xF563E86e461dE100CfCfD8b65dAA542d3d4B0550.png"
     }
   ]
 }
