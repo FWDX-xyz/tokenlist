@@ -1,10 +1,10 @@
 {
-  "timestamp": "2024-12-26T03:18:46.173Z",
+  "timestamp": "2024-12-31T07:56:58.817Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 28
+    "patch": 29
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -484,6 +484,38 @@
       "decimals": 18,
       "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "FDREAM",
+      "name": "DR3AM Fund",
+      "decimals": 18,
+      "address": "0x0521AaA7C96E25afeE79FDd4f1Bb48F008aE4eac",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x0521AaA7C96E25afeE79FDd4f1Bb48F008aE4eac.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "AIXCB",
+      "name": "aixCB by Virtuals",
+      "decimals": 18,
+      "address": "0x76C71F1703Fbf19FFdcF3051E1e684Cb9934510f",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x76C71F1703Fbf19FFdcF3051E1e684Cb9934510f.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "CLO",
+      "name": "Cloudland",
+      "decimals": 18,
+      "address": "0x12E377989a87da0f9B9166f0F875C9069EAa776C",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x12E377989a87da0f9B9166f0F875C9069EAa776C.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "ACOLYT",
+      "name": "Acolyte by Virtuals",
+      "decimals": 18,
+      "address": "0x79dacb99A8698052a9898E81Fdf883c29efb93cb",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x79dacb99A8698052a9898E81Fdf883c29efb93cb.png"
     }
   ]
 }
