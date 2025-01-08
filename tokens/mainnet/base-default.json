@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-01-03T10:17:41.817Z",
+  "timestamp": "2025-01-07T15:10:42.892Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 30
+    "patch": 31
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -524,6 +524,30 @@
       "decimals": 18,
       "address": "0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "SOVRN",
+      "name": "SOVRUN",
+      "decimals": 18,
+      "address": "0xCa4C2E10037ac1AF9f501eCB11A710776c87d2d5",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xCa4C2E10037ac1AF9f501eCB11A710776c87d2d5.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "LAY",
+      "name": "Loomlay",
+      "decimals": 18,
+      "address": "0xb89D354AD1b0d95a48b3De4607F75a8cD710c1bA",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xb89D354AD1b0d95a48b3De4607F75a8cD710c1bA.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "ORA",
+      "name": "ORA Coin",
+      "decimals": 18,
+      "address": "0x333333C465a19C85f85c6CfbED7B16b0B26E3333",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x333333C465a19C85f85c6CfbED7B16b0B26E3333.png"
     }
   ]
 }
