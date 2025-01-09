@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-01-07T15:10:42.892Z",
+  "timestamp": "2025-01-08T04:27:12.447Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 31
+    "patch": 32
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -548,6 +548,14 @@
       "decimals": 18,
       "address": "0x333333C465a19C85f85c6CfbED7B16b0B26E3333",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x333333C465a19C85f85c6CfbED7B16b0B26E3333.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "HENLO",
+      "name": "henlo",
+      "decimals": 18,
+      "address": "0x23A96680Ccde03Bd4Bdd9a3e9a0Cb56A5D27F7c9",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x23A96680Ccde03Bd4Bdd9a3e9a0Cb56A5D27F7c9.png"
     }
   ]
 }
