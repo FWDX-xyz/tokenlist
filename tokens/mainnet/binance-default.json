@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-01-01T05:24:19.087Z",
+  "timestamp": "2025-01-13T09:51:19.235Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 281
+    "patch": 282
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3699,6 +3699,14 @@
       "decimals": 18,
       "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xAD29AbB318791D579433D831ed122aFeAf29dcfe.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "ANDY",
+      "name": "ANDY",
+      "decimals": 18,
+      "address": "0x01CA78a2B5F1a9152D8A3A625bd7dF5765eeE1D8",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x01CA78a2B5F1a9152D8A3A625bd7dF5765eeE1D8.png"
     }
   ]
 }
