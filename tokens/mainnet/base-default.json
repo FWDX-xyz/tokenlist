@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-01-08T04:27:12.447Z",
+  "timestamp": "2025-01-14T11:35:55.244Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 32
+    "patch": 33
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -556,6 +556,22 @@
       "decimals": 18,
       "address": "0x23A96680Ccde03Bd4Bdd9a3e9a0Cb56A5D27F7c9",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x23A96680Ccde03Bd4Bdd9a3e9a0Cb56A5D27F7c9.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "SIMMI",
+      "name": "Simmi Token",
+      "decimals": 18,
+      "address": "0x161e113B8E9BBAEfb846F73F31624F6f9607bd44",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x161e113B8E9BBAEfb846F73F31624F6f9607bd44.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "Anon",
+      "name": "HeyAnon",
+      "decimals": 18,
+      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
     }
   ]
 }
