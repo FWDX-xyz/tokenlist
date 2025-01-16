@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-01-14T04:09:29.110Z",
+  "timestamp": "2025-01-15T10:29:34.774Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 283
+    "patch": 284
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3715,6 +3715,14 @@
       "decimals": 18,
       "address": "0x04830A96a23EA718fAA695a5AAe74695AAE3A23f",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x04830A96a23EA718fAA695a5AAe74695AAE3A23f.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "FROG",
+      "name": "Frodo the virtual samurai",
+      "decimals": 18,
+      "address": "0x4AD663403df2F0E7987bC9C74561687472e1611C",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x4AD663403df2F0E7987bC9C74561687472e1611C.png"
     }
   ]
 }
