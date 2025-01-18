@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-01-16T04:59:06.168Z",
+  "timestamp": "2025-01-17T11:37:42.190Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 289
+    "patch": 290
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3731,6 +3731,14 @@
       "decimals": 18,
       "address": "0xabE8E5CabE24Cb36df9540088fD7cE1175b9bc52",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xabE8E5CabE24Cb36df9540088fD7cE1175b9bc52.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "LTP",
+      "name": "Listapie",
+      "decimals": 18,
+      "address": "0x56fA5F7BF457454Be33D8B978C86A5f5B9DD84C2",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x56fA5F7BF457454Be33D8B978C86A5f5B9DD84C2.png"
     }
   ]
 }
