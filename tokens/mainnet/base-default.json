@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-01-15T11:35:04.732Z",
+  "timestamp": "2025-01-21T06:17:12.529Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 34
+    "patch": 35
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -580,6 +580,14 @@
       "decimals": 18,
       "address": "0x895e15020C3f52ddD4D8e9514eB83C39F53B1579",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x895e15020C3f52ddD4D8e9514eB83C39F53B1579.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "decimals": 18,
+      "address": "0xc27468b12ffA6d714B1b5fBC87eF403F38b82AD4",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xc27468b12ffA6d714B1b5fBC87eF403F38b82AD4.png"
     }
   ]
 }
