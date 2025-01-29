@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-01-21T06:17:12.529Z",
+  "timestamp": "2025-01-28T06:39:12.158Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 35
+    "patch": 36
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -588,6 +588,62 @@
       "decimals": 18,
       "address": "0xc27468b12ffA6d714B1b5fBC87eF403F38b82AD4",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0xc27468b12ffA6d714B1b5fBC87eF403F38b82AD4.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "VVV",
+      "name": "Venice Token",
+      "decimals": 18,
+      "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "SPX",
+      "name": "SPX6900",
+      "decimals": 8,
+      "address": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "doginme",
+      "name": "doginme",
+      "decimals": 18,
+      "address": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x6921B130D297cc43754afba22e5EAc0FBf8Db75b.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "BENJI",
+      "name": "Basenji",
+      "decimals": 18,
+      "address": "0xBC45647eA894030a4E9801Ec03479739FA2485F0",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xBC45647eA894030a4E9801Ec03479739FA2485F0.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "MAG7.ssi",
+      "name": "MAG7.ssi",
+      "decimals": 8,
+      "address": "0x9E6A46f294bB67c20F1D1E7AfB0bBEf614403B55",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x9E6A46f294bB67c20F1D1E7AfB0bBEf614403B55.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "MOCHI",
+      "name": "Mochi",
+      "decimals": 18,
+      "address": "0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "LBTC",
+      "name": "Lombard Staked Bitcoin",
+      "decimals": 8,
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xecAc9C5F704e954931349Da37F60E39f515c11c1.png"
     }
   ]
 }
