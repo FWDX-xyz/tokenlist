@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-29T20:02:22.658+00:00",
+  "timestamp": "2025-01-30T21:02:24.518+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -11022,6 +11022,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x5c7cc28ff152c397dc2e17349661db67113d6ce3",
+      "name": "VORTEX",
+      "symbol": "VRTX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54104/thumb/VORTEX_%281%29.jpg?1738265602"
+    },
+    {
+      "chainId": 1,
       "address": "0x3a0b022f32b3191d44e5847da12dc0b63fb07c91",
       "name": "Spellfire",
       "symbol": "SPELLFIRE",
@@ -15539,14 +15547,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x8070dee687fc754b55101374e3ca6e4fd024a39e",
-      "name": "Sentinel AI",
-      "symbol": "SENAI",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/36711/thumb/photo_2024-04-01_16-55-33-removebg-preview.png?1712127331"
-    },
-    {
-      "chainId": 1,
       "address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
       "name": "Neutrino Index Token",
       "symbol": "XTN",
@@ -19264,14 +19264,6 @@
       "symbol": "GYOZA",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/31083/thumb/logorecized_new.png?1696529916"
-    },
-    {
-      "chainId": 1,
-      "address": "0xf49311af05a4ffb1dbf33d61e9b2d4f0a7d4a71c",
-      "name": "CompanionBot",
-      "symbol": "CBOT",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/31302/thumb/IMG_20230812_173007_931.jpg?1696530122"
     },
     {
       "chainId": 1,
@@ -24663,14 +24655,6 @@
       "symbol": "AAMMUNIDAIUSDC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17218/thumb/aAmmUniDAIUSDC.png?1696516773"
-    },
-    {
-      "chainId": 1,
-      "address": "0xd5c02bb3e40494d4674778306da43a56138a383e",
-      "name": "OMNI404",
-      "symbol": "O404",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35196/thumb/O404.jpg?1707839531"
     },
     {
       "chainId": 1,
@@ -34088,6 +34072,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x4737d9b4592b40d51e110b94c9c043c6654067ae",
+      "name": "Level Staked USD",
+      "symbol": "SLVLUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54094/thumb/slvlusd.png?1738222536"
+    },
+    {
+      "chainId": 1,
       "address": "0x156994e6cabea296e7a73cf3742355bf71a64cec",
       "name": "Elons Gamertag",
       "symbol": "RANDOM9",
@@ -34461,6 +34453,14 @@
       "symbol": "VIRTU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51643/thumb/IMG_1593.jpeg?1731691465"
+    },
+    {
+      "chainId": 1,
+      "address": "0x525536d71848f21b66da0d239546c50ee4c1a358",
+      "name": "Crypto Task Force",
+      "symbol": "CTF",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/54096/thumb/Crypto_Task_Force.png?1738224085"
     },
     {
       "chainId": 1,
@@ -37780,7 +37780,7 @@
       "name": "Synternet",
       "symbol": "SYNT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38888/thumb/_SYNT.png?1719380207"
+      "logoURI": "https://assets.coingecko.com/coins/images/38888/thumb/synt.png?1738226331"
     },
     {
       "chainId": 1,
@@ -39176,6 +39176,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x4308135e3d92eeea3235085a1dd36b7293336938",
+      "name": "Cradle Games",
+      "symbol": "CRADLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54089/thumb/cradle_dext.jpg?1738219929"
+    },
+    {
+      "chainId": 1,
       "address": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
       "name": "Pell Network Token",
       "symbol": "PELL",
@@ -39285,6 +39293,14 @@
       "symbol": "RISE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54077/thumb/AdRise.png?1738175527"
+    },
+    {
+      "chainId": 1,
+      "address": "0x195f5c217b96cd3dd75d39327161b8911a42e509",
+      "name": "Squirrel Wallet",
+      "symbol": "NUTS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54098/thumb/NUTS.png?1738224791"
     },
     {
       "chainId": 1,
@@ -43095,8 +43111,8 @@
     }
   ],
   "version": {
-    "major": 748,
-    "minor": 2,
+    "major": 749,
+    "minor": 1,
     "patch": 0
   }
 }
