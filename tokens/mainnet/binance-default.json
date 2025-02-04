@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-01-28T06:39:45.444Z",
+  "timestamp": "2025-02-03T06:15:36.124Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 297
+    "patch": 303
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3582,14 +3582,6 @@
     },
     {
       "chainId": 56,
-      "symbol": "PROS",
-      "name": "Prosper",
-      "decimals": 18,
-      "address": "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405.png"
-    },
-    {
-      "chainId": 56,
       "symbol": "MONKY",
       "name": "Wise Monkey",
       "decimals": 18,
@@ -3763,6 +3755,30 @@
       "decimals": 6,
       "address": "0xF81aC2E1A0373ddE1BcE01E2Fe694a9b7E3bfcB9",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xF81aC2E1A0373ddE1BcE01E2Fe694a9b7E3bfcB9.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "PROS",
+      "name": "Prosper",
+      "decimals": 18,
+      "address": "0x915424Ac489433130d92B04096F3b96c82e92a9D",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x915424Ac489433130d92B04096F3b96c82e92a9D.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "PROS (old)",
+      "name": "Prosper (old)",
+      "decimals": 18,
+      "address": "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "COOKIE",
+      "name": "Cookie",
+      "decimals": 18,
+      "address": "0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F.png"
     }
   ]
 }

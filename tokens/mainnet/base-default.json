@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-01-28T06:39:12.158Z",
+  "timestamp": "2025-02-03T06:20:50.385Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 36
+    "patch": 37
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -644,6 +644,22 @@
       "decimals": 8,
       "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0xecAc9C5F704e954931349Da37F60E39f515c11c1.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "msETH",
+      "name": "Metronome Synth ETH",
+      "decimals": 18,
+      "address": "0x7Ba6F01772924a82D9626c126347A28299E98c98",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x7Ba6F01772924a82D9626c126347A28299E98c98.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "msUSD",
+      "name": "Metronome Synth USD",
+      "decimals": 18,
+      "address": "0x526728DBc96689597F85ae4cd716d4f7fCcBAE9d",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x526728DBc96689597F85ae4cd716d4f7fCcBAE9d.png"
     }
   ]
 }
