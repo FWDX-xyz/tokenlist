@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-02-03T06:20:50.385Z",
+  "timestamp": "2025-02-05T14:56:27.796Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 37
+    "patch": 40
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -660,6 +660,30 @@
       "decimals": 18,
       "address": "0x526728DBc96689597F85ae4cd716d4f7fCcBAE9d",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x526728DBc96689597F85ae4cd716d4f7fCcBAE9d.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "TOSHI",
+      "name": "Toshi",
+      "decimals": 18,
+      "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "FLAY",
+      "name": "Flayer",
+      "decimals": 18,
+      "address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "ODOS",
+      "name": "Odos Token",
+      "decimals": 18,
+      "address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xca73ed1815e5915489570014e024b7EbE65dE679.png"
     }
   ]
 }
