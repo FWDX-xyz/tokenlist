@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-02-05T14:56:27.796Z",
+  "timestamp": "2025-02-11T14:47:54.828Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 40
+    "patch": 42
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -684,6 +684,22 @@
       "decimals": 18,
       "address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0xca73ed1815e5915489570014e024b7EbE65dE679.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "TEVA",
+      "name": "Tevaera",
+      "decimals": 18,
+      "address": "0x00309D634d11541b857f927BE91aD2f0bD78894c",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x00309D634d11541b857f927BE91aD2f0bD78894c.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "BID",
+      "name": "CreatorBid",
+      "decimals": 18,
+      "address": "0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B.png"
     }
   ]
 }
