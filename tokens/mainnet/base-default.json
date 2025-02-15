@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-02-11T14:47:54.828Z",
+  "timestamp": "2025-02-14T09:46:09.623Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 42
+    "patch": 43
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -700,6 +700,14 @@
       "decimals": 18,
       "address": "0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "B3",
+      "name": "B3",
+      "decimals": 18,
+      "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3.png"
     }
   ]
 }

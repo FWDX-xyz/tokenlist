@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-02-13T14:45:16.559Z",
+  "timestamp": "2025-02-14T08:53:48.064Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 312
+    "patch": 314
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3790,6 +3790,14 @@
     },
     {
       "chainId": 56,
+      "symbol": "KOMA",
+      "name": "Koma Inu",
+      "decimals": 18,
+      "address": "0xd5eaAaC47bD1993d661bc087E15dfb079a7f3C19",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xd5eaAaC47bD1993d661bc087E15dfb079a7f3C19.png"
+    },
+    {
+      "chainId": 56,
       "symbol": "USDF",
       "name": "Astherus USDF",
       "decimals": 18,
@@ -3798,11 +3806,19 @@
     },
     {
       "chainId": 56,
-      "symbol": "KOMA",
-      "name": "Koma Inu",
+      "symbol": "asUSDF",
+      "name": "Astherus asUSDF",
       "decimals": 18,
-      "address": "0xd5eaAaC47bD1993d661bc087E15dfb079a7f3C19",
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xd5eaAaC47bD1993d661bc087E15dfb079a7f3C19.png"
+      "address": "0x917AF46B3C3c6e1Bb7286B9F59637Fb7C65851Fb",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x917AF46B3C3c6e1Bb7286B9F59637Fb7C65851Fb.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "Broccoli",
+      "name": "CZ'S DOG",
+      "decimals": 18,
+      "address": "0x6d5AD1592ed9D6D1dF9b93c793AB759573Ed6714",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x6d5AD1592ed9D6D1dF9b93c793AB759573Ed6714.png"
     }
   ]
 }
