@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-14T19:02:31.358+00:00",
+  "timestamp": "2025-02-15T09:02:29.068+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -1901,6 +1901,14 @@
       "symbol": "ABAT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11726/thumb/aBAT.png?1696511608"
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf04f0912e793620824f4442b03f4d984af29853",
+      "name": "HydraDAO",
+      "symbol": "HYDRA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54421/thumb/hydra-icon.png?1739603226"
     },
     {
       "chainId": 1,
@@ -4789,14 +4797,6 @@
       "symbol": "CNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/10340/thumb/cbicon.png?1696510342"
-    },
-    {
-      "chainId": 1,
-      "address": "0xc06d9013a1d3f25f76ee5291bbc04a181985814e",
-      "name": "Yertle The Turtle",
-      "symbol": "YERTLE",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/32518/thumb/IMG_6911.jpeg?1698406852"
     },
     {
       "chainId": 1,
@@ -39016,6 +39016,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+      "name": "Wrapped bTSLA",
+      "symbol": "WBTSLA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54428/thumb/bTSLA_200x200.png?1739605965"
+    },
+    {
+      "chainId": 1,
       "address": "0xa64c9f707bbb4cbc4e22f596a53d85b3ab7000f8",
       "name": "Dinari ARKB",
       "symbol": "ARKBD",
@@ -39568,11 +39576,35 @@
     },
     {
       "chainId": 1,
+      "address": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
+      "name": "Wrapped bCOIN",
+      "symbol": "WBCOIN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54429/thumb/bCOIN_200x200.png?1739606057"
+    },
+    {
+      "chainId": 1,
       "address": "0x90fa6faf82ddcbbbd48f66ee70b8515a7a626ac3",
       "name": "Dinari TJX",
       "symbol": "TJXD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54397/thumb/d-token-200.png?1739485840"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392",
+      "name": "Wrapped bNVDA",
+      "symbol": "WBNVDA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54430/thumb/bNVDA_200x200.png?1739606241"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+      "name": "Wrapped bMSTR",
+      "symbol": "WBMSTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54431/thumb/bMSTR_200x200.png?1739606375"
     },
     {
       "chainId": 1,
@@ -42007,6 +42039,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x3d7975eccfc61a2102b08925cbba0a4d4dbb6555",
+      "name": "USDD",
+      "symbol": "USDD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25380/thumb/UUSD.jpg?1696524513"
+    },
+    {
+      "chainId": 1,
       "address": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
       "name": "APENFT",
       "symbol": "NFT",
@@ -42052,14 +42092,6 @@
       "symbol": "KZEN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24396/thumb/PKl5OVRv_400x400.png?1696523579"
-    },
-    {
-      "chainId": 1,
-      "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
-      "name": "USDD",
-      "symbol": "USDD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25380/thumb/UUSD.jpg?1696524513"
     },
     {
       "chainId": 1,
@@ -43143,8 +43175,8 @@
     }
   ],
   "version": {
-    "major": 778,
+    "major": 780,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }
