@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-02-14T08:53:48.064Z",
+  "timestamp": "2025-02-18T04:11:12.609Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 314
+    "patch": 315
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3819,6 +3819,14 @@
       "decimals": 18,
       "address": "0x6d5AD1592ed9D6D1dF9b93c793AB759573Ed6714",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6d5AD1592ed9D6D1dF9b93c793AB759573Ed6714.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "VON",
+      "name": "Vameon",
+      "decimals": 18,
+      "address": "0xa4c3497b57C8b6D510F3707A1e9694fD791f45FB",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xa4c3497b57C8b6D510F3707A1e9694fD791f45FB.png"
     }
   ]
 }
