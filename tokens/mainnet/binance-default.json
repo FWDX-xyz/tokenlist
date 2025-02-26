@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-02-20T06:15:06.744Z",
+  "timestamp": "2025-02-25T06:50:36.279Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 318
+    "patch": 319
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3859,6 +3859,14 @@
       "decimals": 18,
       "address": "0xECf2bCB2342d8157d4fb4F4Bdc1EDF74fbF759b3",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xECf2bCB2342d8157d4fb4F4Bdc1EDF74fbF759b3.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "QUACK",
+      "name": "RichQUACK.com",
+      "decimals": 9,
+      "address": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xD74b782E05AA25c50e7330Af541d46E18f36661C.png"
     }
   ]
 }
