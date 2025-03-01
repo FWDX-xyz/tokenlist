@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-02-25T06:50:36.279Z",
+  "timestamp": "2025-02-28T17:14:36.271Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 319
+    "patch": 321
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3867,6 +3867,22 @@
       "decimals": 9,
       "address": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xD74b782E05AA25c50e7330Af541d46E18f36661C.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "MA",
+      "name": "Mind-AI",
+      "decimals": 18,
+      "address": "0xb5Ab5cF2e2c686aE43F01F23859F3a55a8629C1C",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb5Ab5cF2e2c686aE43F01F23859F3a55a8629C1C.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "CaptainBNB",
+      "name": "CaptainBNB",
+      "decimals": 18,
+      "address": "0x47A1EB0b825b73e6A14807BEaECAFef199d5477c",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x47A1EB0b825b73e6A14807BEaECAFef199d5477c.png"
     }
   ]
 }
