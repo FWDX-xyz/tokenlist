@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-01T10:02:20.143+00:00",
+  "timestamp": "2025-03-02T10:02:23.509+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -6572,14 +6572,6 @@
       "symbol": "FMT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14696/thumb/finminity.png?1696514368"
-    },
-    {
-      "chainId": 1,
-      "address": "0x3c72fca8523686fd9e5740b0826fa4bb376e0241",
-      "name": "300FIT",
-      "symbol": "FIT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9690/thumb/6mkyI4Ss_400x400.png?1696509759"
     },
     {
       "chainId": 1,
@@ -31408,6 +31400,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x98509e66fbf5a68d18ebb01dc4a52ce020fc8d1f",
+      "name": "MUMUBIT TOKEN",
+      "symbol": "MCTP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54654/thumb/mctp.jpeg?1740892679"
+    },
+    {
+      "chainId": 1,
       "address": "0xebb66a88cedd12bfe3a289df6dfee377f2963f12",
       "name": "OSCAR",
       "symbol": "OSCAR",
@@ -33024,6 +33024,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+      "name": "SyrupUSDC",
+      "symbol": "SYRUPUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/syrup_logo-_200x200.jpg?1740895597"
+    },
+    {
+      "chainId": 1,
       "address": "0xfe4ee5ea324cda81fef5973f3cfc0a213879f2b2",
       "name": "Meow",
       "symbol": "MEOW",
@@ -33957,6 +33965,14 @@
       "symbol": "BRK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/52050/thumb/Logo.png?1732444543"
+    },
+    {
+      "chainId": 1,
+      "address": "0x87c9053c819bb28e0d73d33059e1b3da80afb0cf",
+      "name": "Midas mRe7YIELD",
+      "symbol": "MRE7YIELD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54660/thumb/mre7yield_logo.png?1740896178"
     },
     {
       "chainId": 1,
@@ -35685,14 +35701,6 @@
       "symbol": "ASTETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24163/thumb/steth.jpg?1696523352"
-    },
-    {
-      "chainId": 1,
-      "address": "0xa3ee21c306a700e682abcdfe9baa6a08f3820419",
-      "name": "Creditcoin",
-      "symbol": "CTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/10569/thumb/Creditcoin_Symbol_dark56.png?1737796066"
     },
     {
       "chainId": 1,
@@ -38557,6 +38565,14 @@
       "symbol": "ARNX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/1124/thumb/ARNX-token-logo-256x256.png?1696502218"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3ee21c306a700e682abcdfe9baa6a08f3820419",
+      "name": "Creditcoin",
+      "symbol": "CTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/10569/thumb/Creditcoin_Symbol_dark56.png?1737796066"
     },
     {
       "chainId": 1,
@@ -43071,7 +43087,7 @@
     }
   ],
   "version": {
-    "major": 802,
+    "major": 803,
     "minor": 0,
     "patch": 0
   }
