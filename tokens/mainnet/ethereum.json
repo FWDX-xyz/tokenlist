@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-02T10:02:23.509+00:00",
+  "timestamp": "2025-03-03T11:02:30.766+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -77,14 +77,6 @@
       "symbol": "AZUR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38499/thumb/azuro.jpeg?1717727357"
-    },
-    {
-      "chainId": 1,
-      "address": "0x7f5e1a2424ebdd141b0df15f974ddcb87751a012",
-      "name": "LLM eth",
-      "symbol": "LLM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37091/thumb/LLM_bot_200x200.png?1713270823"
     },
     {
       "chainId": 1,
@@ -1317,6 +1309,14 @@
       "symbol": "SEUR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13637/thumb/sEUR.png?1696513385"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9a442856c234a39a81a089c06451ebaa4306a72",
+      "name": "pufETH",
+      "symbol": "PUFETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35176/thumb/pufETH-200-200-resolution.png?1707753174"
     },
     {
       "chainId": 1,
@@ -3093,6 +3093,14 @@
       "symbol": "BTRS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/7273/thumb/Asset_4-8.png?1738344231"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+      "name": "Pundi X",
+      "symbol": "PUNDIX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14571/thumb/vDyefsXq_400x400.jpg?1696514252"
     },
     {
       "chainId": 1,
@@ -5724,14 +5732,6 @@
       "symbol": "AAMMUNIAAVEWETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17232/thumb/aAmmUniAAVEWETH.png?1696516786"
-    },
-    {
-      "chainId": 1,
-      "address": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
-      "name": "Pundi X",
-      "symbol": "PUNDIX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14571/thumb/vDyefsXq_400x400.jpg?1696514252"
     },
     {
       "chainId": 1,
@@ -14779,14 +14779,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x428dc22668e6f3468273634067e5545ed5417a3e",
-      "name": "MiraQle",
-      "symbol": "MQL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12278/thumb/200_200_%EB%AF%B8%EB%9D%BC%ED%81%B4_%EB%A1%9C%EA%B3%A0.png?1696512107"
-    },
-    {
-      "chainId": 1,
       "address": "0x5eed99d066a8caf10f3e4327c1b3d8b673485eed",
       "name": "Garden",
       "symbol": "SEED",
@@ -22498,14 +22490,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xd9a442856c234a39a81a089c06451ebaa4306a72",
-      "name": "pufETH",
-      "symbol": "PUFETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35176/thumb/pufETH-200-200-resolution.png?1707753174"
-    },
-    {
-      "chainId": 1,
       "address": "0x695d38eb4e57e0f137e36df7c1f0f2635981246b",
       "name": "Meme AI Coin",
       "symbol": "MEMEAI",
@@ -27529,14 +27513,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x9fb7b4477576fe5b32be4c1843afb1e55f251b33",
-      "name": "Fluid USD Coin",
-      "symbol": "FUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/38030/thumb/fUSDC.png?1716322637"
-    },
-    {
-      "chainId": 1,
       "address": "0x5c20b550819128074fd538edf79791733ccedd18",
       "name": "Fluid Tether USD",
       "symbol": "FUSDT",
@@ -29757,14 +29733,6 @@
       "symbol": "GUA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39748/thumb/1000009358.jpg?1723782519"
-    },
-    {
-      "chainId": 1,
-      "address": "0x266b4d1c60634c5ab2b9f5117888a4850d87c4c0",
-      "name": "Shelter Secure AI",
-      "symbol": "SSAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39737/thumb/IMG_4530.jpeg?1723779542"
     },
     {
       "chainId": 1,
@@ -38304,19 +38272,19 @@
     },
     {
       "chainId": 1,
-      "address": "0x129e5915326ed86f831b0e035acda34b209633d5",
-      "name": "Pineapple",
-      "symbol": "PAPPLE",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/54488/thumb/IMG_3321.png?1739993107"
-    },
-    {
-      "chainId": 1,
       "address": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
       "name": "Nexera",
       "symbol": "NXRA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29181/thumb/nxra.png?1712255778"
+    },
+    {
+      "chainId": 1,
+      "address": "0x129e5915326ed86f831b0e035acda34b209633d5",
+      "name": "Pineapple",
+      "symbol": "PAPPLE",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/54488/thumb/IMG_3321.png?1739993107"
     },
     {
       "chainId": 1,
@@ -41047,14 +41015,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xa89bf95c5f15a847c8eb8d348cd7fed719ad7d80",
-      "name": "Chat AI",
-      "symbol": "AI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29441/thumb/200.png?1696528389"
-    },
-    {
-      "chainId": 1,
       "address": "0x1151cb3d861920e07a38e03eead12c32178567f6",
       "name": "Bonk",
       "symbol": "BONK",
@@ -42983,14 +42943,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x9d3d07439069c9bbc8d626397cf98cb343ac0a72",
-      "name": "Technology Metal Network Global",
-      "symbol": "TMNG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32834/thumb/TMN_Logo_dark_silver_2.PNG?1699586186"
-    },
-    {
-      "chainId": 1,
       "address": "0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86",
       "name": "Backed NIU Technologies",
       "symbol": "BNIU",
@@ -43087,7 +43039,7 @@
     }
   ],
   "version": {
-    "major": 803,
+    "major": 804,
     "minor": 0,
     "patch": 0
   }
