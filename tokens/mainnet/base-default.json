@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-03-11T10:07:13.458Z",
+  "timestamp": "2025-03-17T04:01:02.405Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 45
+    "patch": 46
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -156,14 +156,6 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A.png"
-    },
-    {
-      "name": "Master Miggles",
-      "symbol": "MIGGLES",
-      "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
-      "chainId": 8453,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xB1a03EdA10342529bBF8EB700a06C60441fEf25d.png"
     },
     {
       "name": "USDz",
@@ -724,6 +716,14 @@
       "decimals": 18,
       "address": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x820C137fa70C8691f0e44Dc420a5e53c168921Dc.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "MIGGLES",
+      "name": "Mister Miggles",
+      "decimals": 18,
+      "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xB1a03EdA10342529bBF8EB700a06C60441fEf25d.png"
     }
   ]
 }
