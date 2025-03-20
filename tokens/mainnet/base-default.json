@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-03-17T04:01:02.405Z",
+  "timestamp": "2025-03-19T10:04:53.541Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 46
+    "patch": 47
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -724,6 +724,14 @@
       "decimals": 18,
       "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0xB1a03EdA10342529bBF8EB700a06C60441fEf25d.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "KTA",
+      "name": "Keeta",
+      "decimals": 18,
+      "address": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xc0634090F2Fe6c6d75e61Be2b949464aBB498973.png"
     }
   ]
 }

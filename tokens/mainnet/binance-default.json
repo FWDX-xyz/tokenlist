@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-03-17T03:33:45.930Z",
+  "timestamp": "2025-03-19T12:55:57.274Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 325
+    "patch": 326
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3915,6 +3915,14 @@
       "decimals": 18,
       "address": "0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "BR",
+      "name": "Bedrock",
+      "decimals": 18,
+      "address": "0xFf7d6A96ae471BbCD7713aF9CB1fEeB16cf56B41",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xFf7d6A96ae471BbCD7713aF9CB1fEeB16cf56B41.png"
     }
   ]
 }
