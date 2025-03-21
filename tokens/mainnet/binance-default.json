@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-03-19T12:55:57.274Z",
+  "timestamp": "2025-03-20T10:17:49.360Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 326
+    "patch": 328
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3726,14 +3726,6 @@
     },
     {
       "chainId": 56,
-      "symbol": "Anon",
-      "name": "HeyAnon",
-      "decimals": 18,
-      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
-    },
-    {
-      "chainId": 56,
       "symbol": "SHELL",
       "name": "MyShell Token",
       "decimals": 18,
@@ -3923,6 +3915,14 @@
       "decimals": 18,
       "address": "0xFf7d6A96ae471BbCD7713aF9CB1fEeB16cf56B41",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xFf7d6A96ae471BbCD7713aF9CB1fEeB16cf56B41.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "Anon",
+      "name": "HeyAnon",
+      "decimals": 18,
+      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-03-19T10:04:53.541Z",
+  "timestamp": "2025-03-20T10:18:34.302Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 47
+    "patch": 48
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -559,14 +559,6 @@
     },
     {
       "chainId": 8453,
-      "symbol": "Anon",
-      "name": "HeyAnon",
-      "decimals": 18,
-      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
-      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
-    },
-    {
-      "chainId": 8453,
       "symbol": "yUSD",
       "name": "YieldFi yToken",
       "decimals": 18,
@@ -732,6 +724,14 @@
       "decimals": 18,
       "address": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0xc0634090F2Fe6c6d75e61Be2b949464aBB498973.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "Anon",
+      "name": "HeyAnon",
+      "decimals": 18,
+      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
     }
   ]
 }
