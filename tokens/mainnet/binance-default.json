@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-03-20T10:17:49.360Z",
+  "timestamp": "2025-03-22T02:15:24.081Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 328
+    "patch": 329
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3923,6 +3923,14 @@
       "decimals": 18,
       "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "TUT",
+      "name": "Tutorial",
+      "decimals": 18,
+      "address": "0xCAAE2A2F939F51d97CdFa9A86e79e3F085b799f3",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xCAAE2A2F939F51d97CdFa9A86e79e3F085b799f3.png"
     }
   ]
 }
