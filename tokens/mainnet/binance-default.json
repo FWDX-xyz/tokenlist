@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-03-24T16:56:06.514Z",
+  "timestamp": "2025-03-25T12:26:37.886Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 330
+    "patch": 332
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3939,6 +3939,22 @@
       "decimals": 18,
       "address": "0x59264f02D301281f3393e1385c0aEFd446Eb0F00",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x59264f02D301281f3393e1385c0aEFd446Eb0F00.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "ORA",
+      "name": "ORA Coin",
+      "decimals": 18,
+      "address": "0x333333C465a19C85f85c6CfbED7B16b0B26E3333",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x333333C465a19C85f85c6CfbED7B16b0B26E3333.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "MERL",
+      "name": "MERL",
+      "decimals": 18,
+      "address": "0xa0c56a8c0692bD10B3fA8f8bA79Cf5332B7107F9",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xa0c56a8c0692bD10B3fA8f8bA79Cf5332B7107F9.png"
     }
   ]
 }
