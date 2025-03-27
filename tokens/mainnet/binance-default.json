@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-03-25T12:26:37.886Z",
+  "timestamp": "2025-03-26T13:13:11.383Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 332
+    "patch": 333
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3955,6 +3955,14 @@
       "decimals": 18,
       "address": "0xa0c56a8c0692bD10B3fA8f8bA79Cf5332B7107F9",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xa0c56a8c0692bD10B3fA8f8bA79Cf5332B7107F9.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "KILO",
+      "name": "KiloEx Token",
+      "decimals": 18,
+      "address": "0x503Fa24B7972677F00C4618e5FBe237780C1df53",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x503Fa24B7972677F00C4618e5FBe237780C1df53.png"
     }
   ]
 }
