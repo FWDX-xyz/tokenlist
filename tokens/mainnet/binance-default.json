@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-03-26T13:13:11.383Z",
+  "timestamp": "2025-03-28T08:48:25.036Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 333
+    "patch": 334
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3963,6 +3963,14 @@
       "decimals": 18,
       "address": "0x503Fa24B7972677F00C4618e5FBe237780C1df53",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x503Fa24B7972677F00C4618e5FBe237780C1df53.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "XTER",
+      "name": "Xterio",
+      "decimals": 18,
+      "address": "0x103071Da56e7cD95b415320760D6a0dDC4DA1ca5",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x103071Da56e7cD95b415320760D6a0dDC4DA1ca5.png"
     }
   ]
 }
