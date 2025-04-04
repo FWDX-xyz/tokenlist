@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-01T09:23:47.706Z",
+  "timestamp": "2025-04-03T05:46:49.484Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 338
+    "patch": 339
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4011,6 +4011,14 @@
       "decimals": 18,
       "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "STO",
+      "name": "StakeStone",
+      "decimals": 18,
+      "address": "0xdAf1695c41327b61B9b9965Ac6A5843A3198cf07",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xdAf1695c41327b61B9b9965Ac6A5843A3198cf07.png"
     }
   ]
 }
