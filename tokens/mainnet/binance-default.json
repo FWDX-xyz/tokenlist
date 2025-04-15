@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-14T01:45:12.954Z",
+  "timestamp": "2025-04-14T10:09:57.673Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 344
+    "patch": 346
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4043,6 +4043,14 @@
       "decimals": 18,
       "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "FLOKI",
+      "name": "FLOKI",
+      "decimals": 9,
+      "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xfb5B838b6cfEEdC2873aB27866079AC55363D37E.png"
     }
   ]
 }
