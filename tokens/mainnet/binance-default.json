@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-14T10:09:57.673Z",
+  "timestamp": "2025-04-16T07:35:21.561Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 346
+    "patch": 347
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4051,6 +4051,14 @@
       "decimals": 9,
       "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xfb5B838b6cfEEdC2873aB27866079AC55363D37E.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "BUBB",
+      "name": "Bubb",
+      "decimals": 18,
+      "address": "0xd5369a3CaC0f4448A9A96bb98AF9c887c92fC37B",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xd5369a3CaC0f4448A9A96bb98AF9c887c92fC37B.png"
     }
   ]
 }
