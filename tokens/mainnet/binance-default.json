@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-17T07:09:00.724Z",
+  "timestamp": "2025-04-18T18:08:21.468Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 348
+    "patch": 350
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4067,6 +4067,22 @@
       "decimals": 18,
       "address": "0x6952c5408b9822295ba4a7e694d0C5FfDB8fE320",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6952c5408b9822295ba4a7e694d0C5FfDB8fE320.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "BANK",
+      "name": "Lorenzo Governance Token",
+      "decimals": 18,
+      "address": "0x3AeE7602b612de36088F3ffEd8c8f10E86EbF2bF",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x3AeE7602b612de36088F3ffEd8c8f10E86EbF2bF.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "USR",
+      "name": "Resolv USD",
+      "decimals": 18,
+      "address": "0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9.png"
     }
   ]
 }
