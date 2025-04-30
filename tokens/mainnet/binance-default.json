@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-28T09:55:22.465Z",
+  "timestamp": "2025-04-29T11:52:08.267Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 356
+    "patch": 359
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4123,6 +4123,22 @@
       "decimals": 18,
       "address": "0x868FCEd65edBF0056c4163515dD840e9f287A4c3",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x868FCEd65edBF0056c4163515dD840e9f287A4c3.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "MILK",
+      "name": "MilkyWay",
+      "decimals": 6,
+      "address": "0x7b4Bf9fEcCfF207eF2CB7101Ceb15b8516021AcD",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x7b4Bf9fEcCfF207eF2CB7101Ceb15b8516021AcD.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "HAEDAL",
+      "name": "Haedal",
+      "decimals": 9,
+      "address": "0x3D9bE0aC1001cd81c32464276D863d2FFdCa4967",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x3D9bE0aC1001cd81c32464276D863d2FFdCa4967.png"
     }
   ]
 }
