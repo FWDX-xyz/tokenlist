@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-29T11:52:08.267Z",
+  "timestamp": "2025-04-30T07:48:13.070Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 359
+    "patch": 360
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4139,6 +4139,14 @@
       "decimals": 9,
       "address": "0x3D9bE0aC1001cd81c32464276D863d2FFdCa4967",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x3D9bE0aC1001cd81c32464276D863d2FFdCa4967.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "B2",
+      "name": "BSquared Token",
+      "decimals": 18,
+      "address": "0x783c3f003f172c6Ac5AC700218a357d2D66Ee2a2",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x783c3f003f172c6Ac5AC700218a357d2D66Ee2a2.png"
     }
   ]
 }
