@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-05-16T08:52:11.309Z",
+  "timestamp": "2025-05-17T16:03:32.533Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 368
+    "patch": 369
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4211,6 +4211,14 @@
       "decimals": 18,
       "address": "0x5dBde81fcE337FF4bcaaEe4Ca3466C00aeCaE274",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x5dBde81fcE337FF4bcaaEe4Ca3466C00aeCaE274.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "REX",
+      "name": "REX",
+      "decimals": 18,
+      "address": "0x90869b3a42E399951bd5F5fF278B8CC5ee1Dc0fE",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x90869b3a42E399951bd5F5fF278B8CC5ee1Dc0fE.png"
     }
   ]
 }
