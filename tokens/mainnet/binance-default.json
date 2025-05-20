@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-05-17T16:03:32.533Z",
+  "timestamp": "2025-05-19T07:29:28.239Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 369
+    "patch": 371
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4219,6 +4219,22 @@
       "decimals": 18,
       "address": "0x90869b3a42E399951bd5F5fF278B8CC5ee1Dc0fE",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x90869b3a42E399951bd5F5fF278B8CC5ee1Dc0fE.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "B",
+      "name": "B",
+      "decimals": 18,
+      "address": "0x6bdcCe4A559076e37755a78Ce0c06214E59e4444",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x6bdcCe4A559076e37755a78Ce0c06214E59e4444.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "ZK",
+      "name": "Polyhedra Network",
+      "decimals": 18,
+      "address": "0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81.png"
     }
   ]
 }
