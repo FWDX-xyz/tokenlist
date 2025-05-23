@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-05-20T12:34:48.861Z",
+  "timestamp": "2025-05-22T09:54:08.987Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 372
+    "patch": 373
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4243,6 +4243,14 @@
       "decimals": 6,
       "address": "0xaf44A1E76F56eE12ADBB7ba8acD3CbD474888122",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xaf44A1E76F56eE12ADBB7ba8acD3CbD474888122.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "RWA",
+      "name": "Allo",
+      "decimals": 18,
+      "address": "0x9C8B5CA345247396bDfAc0395638ca9045C6586E",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x9C8B5CA345247396bDfAc0395638ca9045C6586E.png"
     }
   ]
 }
