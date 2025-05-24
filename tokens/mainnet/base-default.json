@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-03-20T10:18:34.302Z",
+  "timestamp": "2025-05-23T07:33:43.856Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 48
+    "patch": 49
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -732,6 +732,30 @@
       "decimals": 18,
       "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "ZORA",
+      "name": "Zora",
+      "decimals": 18,
+      "address": "0x1111111111166b7FE7bd91427724B487980aFc69",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x1111111111166b7FE7bd91427724B487980aFc69.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "AAVE",
+      "name": "Aave Token",
+      "decimals": 18,
+      "address": "0x63706e401c06ac8513145b7687A14804d17f814b",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x63706e401c06ac8513145b7687A14804d17f814b.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "Base is for everyone",
+      "name": "Base is for everyone",
+      "decimals": 18,
+      "address": "0xD769d56f479E9E72a77bB1523e866A33098Feec5",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xD769d56f479E9E72a77bB1523e866A33098Feec5.png"
     }
   ]
 }
