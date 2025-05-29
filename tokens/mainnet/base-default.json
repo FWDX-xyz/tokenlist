@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-05-23T07:33:43.856Z",
+  "timestamp": "2025-05-28T03:48:30.857Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 49
+    "patch": 50
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -756,6 +756,46 @@
       "decimals": 18,
       "address": "0xD769d56f479E9E72a77bB1523e866A33098Feec5",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0xD769d56f479E9E72a77bB1523e866A33098Feec5.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "VIRGEN",
+      "name": "VIRGEN by Virtuals",
+      "decimals": 18,
+      "address": "0xbf8566956b4e2D8BEB90c4c19dbb8c67A9290C36",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xbf8566956b4e2D8BEB90c4c19dbb8c67A9290C36.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "MAMO",
+      "name": "Mamo",
+      "decimals": 18,
+      "address": "0x7300B37DfdfAb110d83290A29DfB31B1740219fE",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x7300B37DfdfAb110d83290A29DfB31B1740219fE.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "MAGNUS",
+      "name": "Magnus Opus by Virtuals",
+      "decimals": 18,
+      "address": "0x93893878aF23F5c817FE338A6Dc7858D5d608BF7",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x93893878aF23F5c817FE338A6Dc7858D5d608BF7.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "GIZA",
+      "name": "Giza",
+      "decimals": 18,
+      "address": "0x590830dFDf9A3F68aFCDdE2694773dEBDF267774",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x590830dFDf9A3F68aFCDdE2694773dEBDF267774.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "$RDAC",
+      "name": "Redacted Coin",
+      "decimals": 18,
+      "address": "0xD3F68c6e8AeE820569D58AdF8d85d94489315192",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0xD3F68c6e8AeE820569D58AdF8d85d94489315192.png"
     }
   ]
 }
