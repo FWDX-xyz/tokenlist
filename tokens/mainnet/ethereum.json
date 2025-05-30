@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-28T22:02:25.065+00:00",
+  "timestamp": "2025-05-29T20:02:24.382+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -1672,6 +1672,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x57240c3e140f98abe315ca8e0213c7a77f34a334",
+      "name": "Reddio",
+      "symbol": "RDO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55332/thumb/reddio.png?1745470527"
+    },
+    {
+      "chainId": 1,
       "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
       "name": "Vesper Finance",
       "symbol": "VSP",
@@ -1829,6 +1837,14 @@
       "symbol": "BEPRO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/10251/thumb/bepro_logo_200x200.png?1718012232"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3fd63209fa2d55b07a0f6db36c2f43900be3094",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "WSRUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
     },
     {
       "chainId": 1,
@@ -2528,6 +2544,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694"
+    },
+    {
+      "chainId": 1,
       "address": "0x6c3fe25a4de7fa243c653cfe1f165bf11d99704e",
       "name": "Hilo",
       "symbol": "HILO",
@@ -2560,11 +2584,27 @@
     },
     {
       "chainId": 1,
+      "address": "0xecca809227d43b895754382f1fd871628d7e51fb",
+      "name": "LanLan Cat",
+      "symbol": "LANLAN",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/56077/thumb/LanLan_Cat.png?1748434093"
+    },
+    {
+      "chainId": 1,
       "address": "0xa5c45d48d36607741e90c0cca29545a46f5ee121",
       "name": "Chiba Wan",
       "symbol": "CHIB",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/50894/thumb/face.png?1729505202"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2255718832bc9fd3be1caf75084f4803da14ff01",
+      "name": "VanEck Treasury Fund",
+      "symbol": "VBILL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/56023/thumb/vbill_200.png?1748092620"
     },
     {
       "chainId": 1,
@@ -5807,14 +5847,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xecca809227d43b895754382f1fd871628d7e51fb",
-      "name": "LanLan Cat",
-      "symbol": "LANLAN",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/56077/thumb/LanLan_Cat.png?1748434093"
-    },
-    {
-      "chainId": 1,
       "address": "0x505b5eda5e25a67e1c24a2bf1a527ed9eb88bf04",
       "name": "Coinweb",
       "symbol": "CWEB",
@@ -6782,14 +6814,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x3209d14ff61766359e64aceff91877cec2ad968e",
-      "name": "CouponBay",
-      "symbol": "CUP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24696/thumb/logo_200.png?1696523862"
-    },
-    {
-      "chainId": 1,
       "address": "0x2596825a84888e8f24b747df29e11b5dd03c81d7",
       "name": "Faith Tribe",
       "symbol": "FTRB",
@@ -6859,14 +6883,6 @@
       "symbol": "CDS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/20332/thumb/cds.png?1696519736"
-    },
-    {
-      "chainId": 1,
-      "address": "0x64bc2ca1be492be7185faa2c8835d9b824c8a194",
-      "name": "Big Time",
-      "symbol": "BIGTIME",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32251/thumb/-6136155493475923781_121.jpg?1696998691"
     },
     {
       "chainId": 1,
@@ -7197,6 +7213,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x64bc2ca1be492be7185faa2c8835d9b824c8a194",
+      "name": "Big Time",
+      "symbol": "BIGTIME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32251/thumb/-6136155493475923781_121.jpg?1696998691"
+    },
+    {
+      "chainId": 1,
       "address": "0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed",
       "name": "Raini",
       "symbol": "RAINI",
@@ -7309,6 +7333,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x4ae149fd6059af772b962efac6bf0236872d6940",
+      "name": "Lemmy The Bat",
+      "symbol": "LBAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66167/thumb/ZC_AVgAX_400x400.jpg?1748536210"
+    },
+    {
+      "chainId": 1,
       "address": "0x77b1183e730275f6a8024ce53d54bcc12b368f60",
       "name": "Renzo Restaked REZ",
       "symbol": "EZREZ",
@@ -7378,6 +7410,14 @@
       "symbol": "YETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32220/thumb/yETH-128px.png?1696914909"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6d369faf21cda1b281013ea83badf6bb26b884d",
+      "name": "Mu Chan",
+      "symbol": "MU",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/66170/thumb/photo_2025-05-28_20-26-16_%282%29.jpg?1748538216"
     },
     {
       "chainId": 1,
@@ -7626,6 +7666,14 @@
       "symbol": "CNHT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/5251/thumb/cny-tether-logo.png?1696505755"
+    },
+    {
+      "chainId": 1,
+      "address": "0x59a529070fbb61e6d6c91f952ccb7f35c34cf8aa",
+      "name": "Asymmetry Finance",
+      "symbol": "ASF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51638/thumb/ASF-200x200.png?1731687627"
     },
     {
       "chainId": 1,
@@ -8026,6 +8074,14 @@
       "symbol": "KENDU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35722/thumb/photo_2024-03-05_01-23-59_%281%29.jpg?1709632285"
+    },
+    {
+      "chainId": 1,
+      "address": "0x15700b564ca08d9439c58ca5053166e8317aa138",
+      "name": "Elixir deUSD",
+      "symbol": "DEUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39494/thumb/deUSD_Logo_%281%29.png?1723689002"
     },
     {
       "chainId": 1,
@@ -9537,14 +9593,6 @@
       "symbol": "1CAT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34059/thumb/779e5404024bcd3cec3db54370ea66c.jpg?1703752231"
-    },
-    {
-      "chainId": 1,
-      "address": "0x6f3cbe18e9381dec6026e6cb8166c13944fcfee1",
-      "name": "FELIX",
-      "symbol": "FELIX",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/32897/thumb/200photo_2023-11-11_02-25-13.jpg?1699790963"
     },
     {
       "chainId": 1,
@@ -16234,14 +16282,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xb8e3e431ffb17dac4bedec04b901a3c03179fd1b",
-      "name": "DogePepe",
-      "symbol": "DOPE",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/37049/thumb/DuhyZzFj_400x400.jpg?1713165301"
-    },
-    {
-      "chainId": 1,
       "address": "0xf14dd7b286ce197019cba54b189d2b883e70f761",
       "name": "Young Peezy",
       "symbol": "PEEZY",
@@ -20105,14 +20145,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694"
-    },
-    {
-      "chainId": 1,
       "address": "0x47000a7b27a75d44ffadfe9d0b97fa04d569b323",
       "name": "Trumpius Maximus",
       "symbol": "TRUMPIUS",
@@ -20709,7 +20741,7 @@
       "name": "Peezy  peezy vip ",
       "symbol": "PEEZY",
       "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/52757/thumb/Peezy.jpg?1734194082"
+      "logoURI": "https://assets.coingecko.com/coins/images/52757/thumb/peezyCircle_200px.png?1748542466"
     },
     {
       "chainId": 1,
@@ -24425,14 +24457,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x59a529070fbb61e6d6c91f952ccb7f35c34cf8aa",
-      "name": "Asymmetry Finance",
-      "symbol": "ASF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51638/thumb/ASF-200x200.png?1731687627"
-    },
-    {
-      "chainId": 1,
       "address": "0x4159862bcf6b4393a80550b1ed03dffa6f90533c",
       "name": "One Hundred Million Inu",
       "symbol": "OHMI",
@@ -24774,14 +24798,6 @@
       "symbol": "REKT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51727/thumb/rektcion_trans_200px.png?1731910587"
-    },
-    {
-      "chainId": 1,
-      "address": "0x2255718832bc9fd3be1caf75084f4803da14ff01",
-      "name": "VanEck Treasury Fund",
-      "symbol": "VBILL",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/56023/thumb/vbill_200.png?1748092620"
     },
     {
       "chainId": 1,
@@ -28985,19 +29001,19 @@
     },
     {
       "chainId": 1,
-      "address": "0x1864ce27e9f7517047933caae530674e8c70b8a7",
-      "name": "Pibble",
-      "symbol": "PIB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2972/thumb/pibble.jpg?1696503713"
-    },
-    {
-      "chainId": 1,
       "address": "0xfd09911130e6930bf87f2b0554c44f400bd80d3e",
       "name": "Ethix",
       "symbol": "ETHIX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1696503766"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1864ce27e9f7517047933caae530674e8c70b8a7",
+      "name": "Pibble",
+      "symbol": "PIB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2972/thumb/pibble.jpg?1696503713"
     },
     {
       "chainId": 1,
@@ -35409,14 +35425,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x15700b564ca08d9439c58ca5053166e8317aa138",
-      "name": "Elixir deUSD",
-      "symbol": "DEUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39494/thumb/deUSD_Logo_%281%29.png?1723689002"
-    },
-    {
-      "chainId": 1,
       "address": "0x881d4c8618d68872fa404518b2460ea839a02a6a",
       "name": "YAWN",
       "symbol": "YAWN",
@@ -40960,8 +40968,8 @@
     }
   ],
   "version": {
-    "major": 931,
-    "minor": 3,
-    "patch": 0
+    "major": 932,
+    "minor": 2,
+    "patch": 1
   }
 }

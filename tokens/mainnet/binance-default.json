@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-05-28T10:56:55.787Z",
+  "timestamp": "2025-05-29T09:51:37.081Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 382
+    "patch": 384
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4331,6 +4331,22 @@
       "decimals": 18,
       "address": "0xDaC991621fd8048D9f235324780ABD6c3aD26421",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xDaC991621fd8048D9f235324780ABD6c3aD26421.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "SOPH",
+      "name": "Sophon",
+      "decimals": 18,
+      "address": "0x31DbA3c96481FDe3CD81C2aaF51F2D8bf618C742",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x31DbA3c96481FDe3CD81C2aaF51F2D8bf618C742.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "RDO",
+      "name": "RDO Token",
+      "decimals": 18,
+      "address": "0xd86E6ef14b96D942eF0AbF0720C549197EA8c528",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xd86E6ef14b96D942eF0AbF0720C549197EA8c528.png"
     }
   ]
 }
