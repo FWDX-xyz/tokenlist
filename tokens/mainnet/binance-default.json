@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-05-30T10:27:22.561Z",
+  "timestamp": "2025-06-02T15:20:00.271Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 385
+    "patch": 390
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4355,6 +4355,46 @@
       "decimals": 9,
       "address": "0xf7626c7FF7B778AAF187d508d056a9398d9545D1",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xf7626c7FF7B778AAF187d508d056a9398d9545D1.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "FUEL",
+      "name": "FUEL",
+      "decimals": 9,
+      "address": "0x5c8daEabc57E9249606D3bD6d1E097eF492eA3C5",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5c8daEabc57E9249606D3bD6d1E097eF492eA3C5.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "SQD",
+      "name": "Subsquid",
+      "decimals": 18,
+      "address": "0xe50E3d1A46070444F44df911359033F2937fcC13",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xe50E3d1A46070444F44df911359033F2937fcC13.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "EDGEN",
+      "name": "LayerEdge",
+      "decimals": 18,
+      "address": "0x0C808F0464C423d5Ea4F4454fcc23B6E2Ae75562",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0C808F0464C423d5Ea4F4454fcc23B6E2Ae75562.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "F",
+      "name": "SynFutures",
+      "decimals": 18,
+      "address": "0xc9cCbd76c2353e593Cc975F13295e8289d04D3Bb",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xc9cCbd76c2353e593Cc975F13295e8289d04D3Bb.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "C",
+      "name": "CROAK",
+      "decimals": 18,
+      "address": "0xEEf8E84e72fa65F4dd101231DAcB322De8064444",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xEEf8E84e72fa65F4dd101231DAcB322De8064444.png"
     }
   ]
 }
