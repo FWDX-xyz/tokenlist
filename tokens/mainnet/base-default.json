@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-06-02T09:06:08.049Z",
+  "timestamp": "2025-06-04T08:55:21.800Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 52
+    "patch": 54
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -852,6 +852,14 @@
       "decimals": 18,
       "address": "0x7d6fcB3327D7E17095fA8B0E3513AC7A3564f5E1",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x7d6fcB3327D7E17095fA8B0E3513AC7A3564f5E1.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "oUSDT",
+      "name": "OpenUSDT",
+      "decimals": 6,
+      "address": "0x1217BfE6c773EEC6cc4A38b5Dc45B92292B6E189",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x1217BfE6c773EEC6cc4A38b5Dc45B92292B6E189.png"
     }
   ]
 }
