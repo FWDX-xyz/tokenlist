@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-06-06T07:43:33.446Z",
+  "timestamp": "2025-06-09T07:18:14.564Z",
   "name": "PancakeSwap Base Default",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 58
+    "patch": 59
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -900,6 +900,38 @@
       "decimals": 18,
       "address": "0x02cb6968877A3a40A5D918af0AeCc3481bFc0434",
       "logoURI": "https://tokens.pancakeswap.finance/images/base/0x02cb6968877A3a40A5D918af0AeCc3481bFc0434.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "TORUS",
+      "name": "Torus",
+      "decimals": 18,
+      "address": "0x78EC15C5FD8EfC5e924e9EEBb9e549e29C785867",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x78EC15C5FD8EfC5e924e9EEBb9e549e29C785867.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "TIG",
+      "name": "The Innovation Game",
+      "decimals": 18,
+      "address": "0x0C03Ce270B4826Ec62e7DD007f0B716068639F7B",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x0C03Ce270B4826Ec62e7DD007f0B716068639F7B.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "BNKR",
+      "name": "BankrCoin",
+      "decimals": 18,
+      "address": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b.png"
+    },
+    {
+      "chainId": 8453,
+      "symbol": "RFL",
+      "name": "Reflect",
+      "decimals": 18,
+      "address": "0x6e2c81b6c2C0e02360F00a0dA694e489acB0b05e",
+      "logoURI": "https://tokens.pancakeswap.finance/images/base/0x6e2c81b6c2C0e02360F00a0dA694e489acB0b05e.png"
     }
   ]
 }
