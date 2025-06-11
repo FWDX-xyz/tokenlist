@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-06-10T01:42:39.349Z",
+  "timestamp": "2025-06-10T12:26:39.864Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 409
+    "patch": 413
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4635,6 +4635,22 @@
       "decimals": 18,
       "address": "0xbAb528425Edb1E0E36D3719bc3307d9C8ccE8888",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xbAb528425Edb1E0E36D3719bc3307d9C8ccE8888.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "RESOLV",
+      "name": "Resolv",
+      "decimals": 18,
+      "address": "0xdA6CEF7F667d992A60EB823Ab215493aA0c6b360",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xdA6CEF7F667d992A60EB823Ab215493aA0c6b360.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "ZORO",
+      "name": "ZoRobotics",
+      "decimals": 18,
+      "address": "0x0D4d3c739E2Fdf82C7CE2a9e450e208E5330A237",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0D4d3c739E2Fdf82C7CE2a9e450e208E5330A237.png"
     }
   ]
 }
