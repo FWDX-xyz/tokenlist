@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-06-10T12:26:39.864Z",
+  "timestamp": "2025-06-11T10:01:43.322Z",
   "name": "PancakeSwap Extended",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 413
+    "patch": 416
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -4651,6 +4651,22 @@
       "decimals": 18,
       "address": "0x0D4d3c739E2Fdf82C7CE2a9e450e208E5330A237",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0D4d3c739E2Fdf82C7CE2a9e450e208E5330A237.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "Liberty",
+      "name": "Torch of Liberty",
+      "decimals": 18,
+      "address": "0x6EA8211A1E47dBD8b55c487c0B906ebC57B94444",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x6EA8211A1E47dBD8b55c487c0B906ebC57B94444.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "IDOL",
+      "name": "MEET48 Token",
+      "decimals": 18,
+      "address": "0x3B4de3c7855C03bB9F50ea252cD2c9FA1125Ab07",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x3B4de3c7855C03bB9F50ea252cD2c9FA1125Ab07.png"
     }
   ]
 }
