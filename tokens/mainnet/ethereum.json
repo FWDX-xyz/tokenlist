@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-13T18:02:26.895+00:00",
+  "timestamp": "2025-06-14T13:02:23.221+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -2192,6 +2192,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x360ee0225cd8abf0adf1f97f4c0f4079a4bf41ec",
+      "name": "Catalyse AI",
+      "symbol": "CAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66592/thumb/Catalyse_AI.jpg?1749883061"
+    },
+    {
+      "chainId": 1,
       "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
       "name": "LP 3pool Curve",
       "symbol": "3CRV",
@@ -2309,6 +2317,14 @@
       "symbol": "TRYB",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/10119/thumb/JBs9jiXO_400x400.jpg?1696510144"
+    },
+    {
+      "chainId": 1,
+      "address": "0x420658a1d8b8f5c36ddaf1bb828f347ba9011969",
+      "name": "Degen Arena",
+      "symbol": "DEGEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66594/thumb/Degen_Arena.jpg?1749883788"
     },
     {
       "chainId": 1,
@@ -3268,6 +3284,14 @@
       "symbol": "STRM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/27994/thumb/logo.png?1696527011"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5174c9752c46208c30d0f1870b326c9a20c0679",
+      "name": "Maximize AI",
+      "symbol": "MAXI",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/66603/thumb/Maximize_ai_200x200.png?1749888812"
     },
     {
       "chainId": 1,
@@ -4452,14 +4476,6 @@
       "symbol": "ZOOT",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/15629/thumb/gyzERsO.png?1696515262"
-    },
-    {
-      "chainId": 1,
-      "address": "0x571f54d23cdf2211c83e9a0cbd92aca36c48fa02",
-      "name": "Parallel USD",
-      "symbol": "PAUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37953/thumb/paUSD-Square.png?1716090814"
     },
     {
       "chainId": 1,
@@ -6119,11 +6135,27 @@
     },
     {
       "chainId": 1,
+      "address": "0xc477d038d5420c6a9e0b031712f61c5120090de9",
+      "name": "Boson Protocol",
+      "symbol": "BOSON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14710/thumb/boson_logo.png?1696514381"
+    },
+    {
+      "chainId": 1,
       "address": "0x6bba316c48b49bd1eac44573c5c871ff02958469",
       "name": "Gas DAO",
       "symbol": "GAS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/22086/thumb/SjrgK6sf_400x400.jpg?1696521429"
+    },
+    {
+      "chainId": 1,
+      "address": "0xeea3edc017877c603e2f332fc1828a46432cdf96",
+      "name": "Cove USD",
+      "symbol": "COVEUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66612/thumb/coveUSD.png?1749902533"
     },
     {
       "chainId": 1,
@@ -24705,14 +24737,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xc477d038d5420c6a9e0b031712f61c5120090de9",
-      "name": "Boson Protocol",
-      "symbol": "BOSON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14710/thumb/boson_logo.png?1696514381"
-    },
-    {
-      "chainId": 1,
       "address": "0xb70835d7822ebb9426b56543e391846c107bd32c",
       "name": "Game",
       "symbol": "GTC",
@@ -28617,14 +28641,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
-      "name": "Waltonchain",
-      "symbol": "WTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/1093/thumb/ggx6nnW.png?1696502192"
-    },
-    {
-      "chainId": 1,
       "address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
       "name": "Powerledger",
       "symbol": "POWR",
@@ -30870,14 +30886,6 @@
       "symbol": "DFND",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15286/thumb/1zbdX36.png?1696514937"
-    },
-    {
-      "chainId": 1,
-      "address": "0x5d30ad9c6374bf925d0a75454fa327aacf778492",
-      "name": "PERI Finance",
-      "symbol": "PERI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15313/thumb/6xVEMS1.png?1696514963"
     },
     {
       "chainId": 1,
@@ -40936,8 +40944,8 @@
     }
   ],
   "version": {
-    "major": 955,
-    "minor": 0,
-    "patch": 1
+    "major": 957,
+    "minor": 1,
+    "patch": 0
   }
 }
